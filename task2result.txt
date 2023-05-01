@@ -1,0 +1,2726 @@
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 1
+For each payoff,there are 10 sets of initial adopters
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 1
+For each payoff,there are 10 sets of initial adopters
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 1
+For each payoff,there are 10 sets of initial adopters
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 1
+For each payoff,there are 10 sets of initial adopters
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 1
+For each payoff,there are 10 sets of initial adopters
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 1
+For each payoff,there are 10 sets of initial adopters
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 1
+For each payoff,there are 10 sets of initial adopters
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 1
+For each payoff,there are 10 sets of initial adopters
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 1
+For each payoff,there are 10 sets of initial adopters
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 1
+For each payoff,there are 10 sets of initial adopters
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 1
+For each payoff,there are 10 sets of initial adopters
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 1
+For each payoff,there are 10 sets of initial adopters
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 1
+For each payoff,there are 10 sets of initial adopters
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 1
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.3 Cascade percentage= 0.0024764735017335313
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 1
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.3 Cascade percentage= 0.0024764735017335313
+Payoff= 0.25 Cascade percentage= 0.0024764735017335313
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 1
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.3 Cascade percentage= 0.0024764735017335313
+Payoff= 0.25 Cascade percentage= 0.0024764735017335313
+Payoff= 0.21 Cascade percentage= 0.0024764735017335313
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 1
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.3 Cascade percentage= 0.0024764735017335313
+Payoff= 0.25 Cascade percentage= 0.0024764735017335313
+Payoff= 0.21 Cascade percentage= 0.0024764735017335313
+Payoff= 0.2 Cascade percentage= 0.012382367508667657
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 1
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.3 Cascade percentage= 0.0024764735017335313
+Payoff= 0.25 Cascade percentage= 0.0024764735017335313
+Payoff= 0.21 Cascade percentage= 0.0024764735017335313
+Payoff= 0.2 Cascade percentage= 0.012382367508667657
+Payoff= 0.19 Cascade percentage= 0.012382367508667657
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 1
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.3 Cascade percentage= 0.0024764735017335313
+Payoff= 0.25 Cascade percentage= 0.0024764735017335313
+Payoff= 0.21 Cascade percentage= 0.0024764735017335313
+Payoff= 0.2 Cascade percentage= 0.012382367508667657
+Payoff= 0.19 Cascade percentage= 0.012382367508667657
+Payoff= 0.18 Cascade percentage= 0.012382367508667657
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 1
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.3 Cascade percentage= 0.0024764735017335313
+Payoff= 0.25 Cascade percentage= 0.0024764735017335313
+Payoff= 0.21 Cascade percentage= 0.0024764735017335313
+Payoff= 0.2 Cascade percentage= 0.012382367508667657
+Payoff= 0.19 Cascade percentage= 0.012382367508667657
+Payoff= 0.18 Cascade percentage= 0.012382367508667657
+Payoff= 0.17 Cascade percentage= 0.012382367508667657
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 1
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.3 Cascade percentage= 0.0024764735017335313
+Payoff= 0.25 Cascade percentage= 0.0024764735017335313
+Payoff= 0.21 Cascade percentage= 0.0024764735017335313
+Payoff= 0.2 Cascade percentage= 0.012382367508667657
+Payoff= 0.19 Cascade percentage= 0.012382367508667657
+Payoff= 0.18 Cascade percentage= 0.012382367508667657
+Payoff= 0.17 Cascade percentage= 0.012382367508667657
+Payoff= 0.16 Cascade percentage= 0.02228826151560178
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 1
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.3 Cascade percentage= 0.0024764735017335313
+Payoff= 0.25 Cascade percentage= 0.0024764735017335313
+Payoff= 0.21 Cascade percentage= 0.0024764735017335313
+Payoff= 0.2 Cascade percentage= 0.012382367508667657
+Payoff= 0.19 Cascade percentage= 0.012382367508667657
+Payoff= 0.18 Cascade percentage= 0.012382367508667657
+Payoff= 0.17 Cascade percentage= 0.012382367508667657
+Payoff= 0.16 Cascade percentage= 0.02228826151560178
+Payoff= 0.15 Cascade percentage= 0.02228826151560178
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 1
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.3 Cascade percentage= 0.0024764735017335313
+Payoff= 0.25 Cascade percentage= 0.0024764735017335313
+Payoff= 0.21 Cascade percentage= 0.0024764735017335313
+Payoff= 0.2 Cascade percentage= 0.012382367508667657
+Payoff= 0.19 Cascade percentage= 0.012382367508667657
+Payoff= 0.18 Cascade percentage= 0.012382367508667657
+Payoff= 0.17 Cascade percentage= 0.012382367508667657
+Payoff= 0.16 Cascade percentage= 0.02228826151560178
+Payoff= 0.15 Cascade percentage= 0.02228826151560178
+Payoff= 0.14 Cascade percentage= 0.02228826151560178
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 1
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.3 Cascade percentage= 0.0024764735017335313
+Payoff= 0.25 Cascade percentage= 0.0024764735017335313
+Payoff= 0.21 Cascade percentage= 0.0024764735017335313
+Payoff= 0.2 Cascade percentage= 0.012382367508667657
+Payoff= 0.19 Cascade percentage= 0.012382367508667657
+Payoff= 0.18 Cascade percentage= 0.012382367508667657
+Payoff= 0.17 Cascade percentage= 0.012382367508667657
+Payoff= 0.16 Cascade percentage= 0.02228826151560178
+Payoff= 0.15 Cascade percentage= 0.02228826151560178
+Payoff= 0.14 Cascade percentage= 0.02228826151560178
+Payoff= 0.13 Cascade percentage= 0.02228826151560178
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 1
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.3 Cascade percentage= 0.0024764735017335313
+Payoff= 0.25 Cascade percentage= 0.0024764735017335313
+Payoff= 0.21 Cascade percentage= 0.0024764735017335313
+Payoff= 0.2 Cascade percentage= 0.012382367508667657
+Payoff= 0.19 Cascade percentage= 0.012382367508667657
+Payoff= 0.18 Cascade percentage= 0.012382367508667657
+Payoff= 0.17 Cascade percentage= 0.012382367508667657
+Payoff= 0.16 Cascade percentage= 0.02228826151560178
+Payoff= 0.15 Cascade percentage= 0.02228826151560178
+Payoff= 0.14 Cascade percentage= 0.02228826151560178
+Payoff= 0.13 Cascade percentage= 0.02228826151560178
+Payoff= 0.12 Cascade percentage= 0.03219415552253591
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 1
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.3 Cascade percentage= 0.0024764735017335313
+Payoff= 0.25 Cascade percentage= 0.0024764735017335313
+Payoff= 0.21 Cascade percentage= 0.0024764735017335313
+Payoff= 0.2 Cascade percentage= 0.012382367508667657
+Payoff= 0.19 Cascade percentage= 0.012382367508667657
+Payoff= 0.18 Cascade percentage= 0.012382367508667657
+Payoff= 0.17 Cascade percentage= 0.012382367508667657
+Payoff= 0.16 Cascade percentage= 0.02228826151560178
+Payoff= 0.15 Cascade percentage= 0.02228826151560178
+Payoff= 0.14 Cascade percentage= 0.02228826151560178
+Payoff= 0.13 Cascade percentage= 0.02228826151560178
+Payoff= 0.12 Cascade percentage= 0.03219415552253591
+Payoff= 0.11 Cascade percentage= 0.04457652303120357
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 1
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.3 Cascade percentage= 0.0024764735017335313
+Payoff= 0.25 Cascade percentage= 0.0024764735017335313
+Payoff= 0.21 Cascade percentage= 0.0024764735017335313
+Payoff= 0.2 Cascade percentage= 0.012382367508667657
+Payoff= 0.19 Cascade percentage= 0.012382367508667657
+Payoff= 0.18 Cascade percentage= 0.012382367508667657
+Payoff= 0.17 Cascade percentage= 0.012382367508667657
+Payoff= 0.16 Cascade percentage= 0.02228826151560178
+Payoff= 0.15 Cascade percentage= 0.02228826151560178
+Payoff= 0.14 Cascade percentage= 0.02228826151560178
+Payoff= 0.13 Cascade percentage= 0.02228826151560178
+Payoff= 0.12 Cascade percentage= 0.03219415552253591
+Payoff= 0.11 Cascade percentage= 0.04457652303120357
+Payoff= 0.1 Cascade percentage= 24.467558197127293
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 1
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.3 Cascade percentage= 0.0024764735017335313
+Payoff= 0.25 Cascade percentage= 0.0024764735017335313
+Payoff= 0.21 Cascade percentage= 0.0024764735017335313
+Payoff= 0.2 Cascade percentage= 0.012382367508667657
+Payoff= 0.19 Cascade percentage= 0.012382367508667657
+Payoff= 0.18 Cascade percentage= 0.012382367508667657
+Payoff= 0.17 Cascade percentage= 0.012382367508667657
+Payoff= 0.16 Cascade percentage= 0.02228826151560178
+Payoff= 0.15 Cascade percentage= 0.02228826151560178
+Payoff= 0.14 Cascade percentage= 0.02228826151560178
+Payoff= 0.13 Cascade percentage= 0.02228826151560178
+Payoff= 0.12 Cascade percentage= 0.03219415552253591
+Payoff= 0.11 Cascade percentage= 0.04457652303120357
+Payoff= 0.1 Cascade percentage= 24.467558197127293
+Payoff= 0.09 Cascade percentage= 48.88063397721645
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 1
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.3 Cascade percentage= 0.0024764735017335313
+Payoff= 0.25 Cascade percentage= 0.0024764735017335313
+Payoff= 0.21 Cascade percentage= 0.0024764735017335313
+Payoff= 0.2 Cascade percentage= 0.012382367508667657
+Payoff= 0.19 Cascade percentage= 0.012382367508667657
+Payoff= 0.18 Cascade percentage= 0.012382367508667657
+Payoff= 0.17 Cascade percentage= 0.012382367508667657
+Payoff= 0.16 Cascade percentage= 0.02228826151560178
+Payoff= 0.15 Cascade percentage= 0.02228826151560178
+Payoff= 0.14 Cascade percentage= 0.02228826151560178
+Payoff= 0.13 Cascade percentage= 0.02228826151560178
+Payoff= 0.12 Cascade percentage= 0.03219415552253591
+Payoff= 0.11 Cascade percentage= 0.04457652303120357
+Payoff= 0.1 Cascade percentage= 24.467558197127293
+Payoff= 0.09 Cascade percentage= 48.88063397721645
+Payoff= 0.08 Cascade percentage= 57.0232788509163
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 1
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.3 Cascade percentage= 0.0024764735017335313
+Payoff= 0.25 Cascade percentage= 0.0024764735017335313
+Payoff= 0.21 Cascade percentage= 0.0024764735017335313
+Payoff= 0.2 Cascade percentage= 0.012382367508667657
+Payoff= 0.19 Cascade percentage= 0.012382367508667657
+Payoff= 0.18 Cascade percentage= 0.012382367508667657
+Payoff= 0.17 Cascade percentage= 0.012382367508667657
+Payoff= 0.16 Cascade percentage= 0.02228826151560178
+Payoff= 0.15 Cascade percentage= 0.02228826151560178
+Payoff= 0.14 Cascade percentage= 0.02228826151560178
+Payoff= 0.13 Cascade percentage= 0.02228826151560178
+Payoff= 0.12 Cascade percentage= 0.03219415552253591
+Payoff= 0.11 Cascade percentage= 0.04457652303120357
+Payoff= 0.1 Cascade percentage= 24.467558197127293
+Payoff= 0.09 Cascade percentage= 48.88063397721645
+Payoff= 0.08 Cascade percentage= 57.0232788509163
+Payoff= 0.07 Cascade percentage= 70.00990589400693
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 1
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.3 Cascade percentage= 0.0024764735017335313
+Payoff= 0.25 Cascade percentage= 0.0024764735017335313
+Payoff= 0.21 Cascade percentage= 0.0024764735017335313
+Payoff= 0.2 Cascade percentage= 0.012382367508667657
+Payoff= 0.19 Cascade percentage= 0.012382367508667657
+Payoff= 0.18 Cascade percentage= 0.012382367508667657
+Payoff= 0.17 Cascade percentage= 0.012382367508667657
+Payoff= 0.16 Cascade percentage= 0.02228826151560178
+Payoff= 0.15 Cascade percentage= 0.02228826151560178
+Payoff= 0.14 Cascade percentage= 0.02228826151560178
+Payoff= 0.13 Cascade percentage= 0.02228826151560178
+Payoff= 0.12 Cascade percentage= 0.03219415552253591
+Payoff= 0.11 Cascade percentage= 0.04457652303120357
+Payoff= 0.1 Cascade percentage= 24.467558197127293
+Payoff= 0.09 Cascade percentage= 48.88063397721645
+Payoff= 0.08 Cascade percentage= 57.0232788509163
+Payoff= 0.07 Cascade percentage= 70.00990589400693
+Payoff= 0.06 Cascade percentage= 70.01238236750866
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 50
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.8347956881423917
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 50
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.8347956881423917
+Payoff= 0.9 Cascade percentage= 0.8347956881423917
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 50
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.8347956881423917
+Payoff= 0.9 Cascade percentage= 0.8347956881423917
+Payoff= 0.85 Cascade percentage= 0.8347956881423917
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 50
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.8347956881423917
+Payoff= 0.9 Cascade percentage= 0.8347956881423917
+Payoff= 0.85 Cascade percentage= 0.8347956881423917
+Payoff= 0.8 Cascade percentage= 0.8398094760591628
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 50
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.8347956881423917
+Payoff= 0.9 Cascade percentage= 0.8347956881423917
+Payoff= 0.85 Cascade percentage= 0.8347956881423917
+Payoff= 0.8 Cascade percentage= 0.8398094760591628
+Payoff= 0.75 Cascade percentage= 0.8648784156430184
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 50
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.8347956881423917
+Payoff= 0.9 Cascade percentage= 0.8347956881423917
+Payoff= 0.85 Cascade percentage= 0.8347956881423917
+Payoff= 0.8 Cascade percentage= 0.8398094760591628
+Payoff= 0.75 Cascade percentage= 0.8648784156430184
+Payoff= 0.7 Cascade percentage= 0.8648784156430184
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 50
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.8347956881423917
+Payoff= 0.9 Cascade percentage= 0.8347956881423917
+Payoff= 0.85 Cascade percentage= 0.8347956881423917
+Payoff= 0.8 Cascade percentage= 0.8398094760591628
+Payoff= 0.75 Cascade percentage= 0.8648784156430184
+Payoff= 0.7 Cascade percentage= 0.8648784156430184
+Payoff= 0.65 Cascade percentage= 0.9576334921032839
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 50
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.8347956881423917
+Payoff= 0.9 Cascade percentage= 0.8347956881423917
+Payoff= 0.85 Cascade percentage= 0.8347956881423917
+Payoff= 0.8 Cascade percentage= 0.8398094760591628
+Payoff= 0.75 Cascade percentage= 0.8648784156430184
+Payoff= 0.7 Cascade percentage= 0.8648784156430184
+Payoff= 0.65 Cascade percentage= 0.9576334921032839
+Payoff= 0.6 Cascade percentage= 0.975181749811983
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 50
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.8347956881423917
+Payoff= 0.9 Cascade percentage= 0.8347956881423917
+Payoff= 0.85 Cascade percentage= 0.8347956881423917
+Payoff= 0.8 Cascade percentage= 0.8398094760591628
+Payoff= 0.75 Cascade percentage= 0.8648784156430184
+Payoff= 0.7 Cascade percentage= 0.8648784156430184
+Payoff= 0.65 Cascade percentage= 0.9576334921032839
+Payoff= 0.6 Cascade percentage= 0.975181749811983
+Payoff= 0.55 Cascade percentage= 0.9801955377287541
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 50
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.8347956881423917
+Payoff= 0.9 Cascade percentage= 0.8347956881423917
+Payoff= 0.85 Cascade percentage= 0.8347956881423917
+Payoff= 0.8 Cascade percentage= 0.8398094760591628
+Payoff= 0.75 Cascade percentage= 0.8648784156430184
+Payoff= 0.7 Cascade percentage= 0.8648784156430184
+Payoff= 0.65 Cascade percentage= 0.9576334921032839
+Payoff= 0.6 Cascade percentage= 0.975181749811983
+Payoff= 0.55 Cascade percentage= 0.9801955377287541
+Payoff= 0.5 Cascade percentage= 2.4893457006768616
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 50
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.8347956881423917
+Payoff= 0.9 Cascade percentage= 0.8347956881423917
+Payoff= 0.85 Cascade percentage= 0.8347956881423917
+Payoff= 0.8 Cascade percentage= 0.8398094760591628
+Payoff= 0.75 Cascade percentage= 0.8648784156430184
+Payoff= 0.7 Cascade percentage= 0.8648784156430184
+Payoff= 0.65 Cascade percentage= 0.9576334921032839
+Payoff= 0.6 Cascade percentage= 0.975181749811983
+Payoff= 0.55 Cascade percentage= 0.9801955377287541
+Payoff= 0.5 Cascade percentage= 2.4893457006768616
+Payoff= 0.45 Cascade percentage= 2.4968663825520183
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 50
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.8347956881423917
+Payoff= 0.9 Cascade percentage= 0.8347956881423917
+Payoff= 0.85 Cascade percentage= 0.8347956881423917
+Payoff= 0.8 Cascade percentage= 0.8398094760591628
+Payoff= 0.75 Cascade percentage= 0.8648784156430184
+Payoff= 0.7 Cascade percentage= 0.8648784156430184
+Payoff= 0.65 Cascade percentage= 0.9576334921032839
+Payoff= 0.6 Cascade percentage= 0.975181749811983
+Payoff= 0.55 Cascade percentage= 0.9801955377287541
+Payoff= 0.5 Cascade percentage= 2.4893457006768616
+Payoff= 0.45 Cascade percentage= 2.4968663825520183
+Payoff= 0.4 Cascade percentage= 3.093507144647781
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 50
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.8347956881423917
+Payoff= 0.9 Cascade percentage= 0.8347956881423917
+Payoff= 0.85 Cascade percentage= 0.8347956881423917
+Payoff= 0.8 Cascade percentage= 0.8398094760591628
+Payoff= 0.75 Cascade percentage= 0.8648784156430184
+Payoff= 0.7 Cascade percentage= 0.8648784156430184
+Payoff= 0.65 Cascade percentage= 0.9576334921032839
+Payoff= 0.6 Cascade percentage= 0.975181749811983
+Payoff= 0.55 Cascade percentage= 0.9801955377287541
+Payoff= 0.5 Cascade percentage= 2.4893457006768616
+Payoff= 0.45 Cascade percentage= 2.4968663825520183
+Payoff= 0.4 Cascade percentage= 3.093507144647781
+Payoff= 0.35 Cascade percentage= 5.6981699674103785
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 50
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.8347956881423917
+Payoff= 0.9 Cascade percentage= 0.8347956881423917
+Payoff= 0.85 Cascade percentage= 0.8347956881423917
+Payoff= 0.8 Cascade percentage= 0.8398094760591628
+Payoff= 0.75 Cascade percentage= 0.8648784156430184
+Payoff= 0.7 Cascade percentage= 0.8648784156430184
+Payoff= 0.65 Cascade percentage= 0.9576334921032839
+Payoff= 0.6 Cascade percentage= 0.975181749811983
+Payoff= 0.55 Cascade percentage= 0.9801955377287541
+Payoff= 0.5 Cascade percentage= 2.4893457006768616
+Payoff= 0.45 Cascade percentage= 2.4968663825520183
+Payoff= 0.4 Cascade percentage= 3.093507144647781
+Payoff= 0.35 Cascade percentage= 5.6981699674103785
+Payoff= 0.3 Cascade percentage= 12.531962897969416
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 50
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.8347956881423917
+Payoff= 0.9 Cascade percentage= 0.8347956881423917
+Payoff= 0.85 Cascade percentage= 0.8347956881423917
+Payoff= 0.8 Cascade percentage= 0.8398094760591628
+Payoff= 0.75 Cascade percentage= 0.8648784156430184
+Payoff= 0.7 Cascade percentage= 0.8648784156430184
+Payoff= 0.65 Cascade percentage= 0.9576334921032839
+Payoff= 0.6 Cascade percentage= 0.975181749811983
+Payoff= 0.55 Cascade percentage= 0.9801955377287541
+Payoff= 0.5 Cascade percentage= 2.4893457006768616
+Payoff= 0.45 Cascade percentage= 2.4968663825520183
+Payoff= 0.4 Cascade percentage= 3.093507144647781
+Payoff= 0.35 Cascade percentage= 5.6981699674103785
+Payoff= 0.3 Cascade percentage= 12.531962897969416
+Payoff= 0.25 Cascade percentage= 39.77688643770369
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 50
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.8347956881423917
+Payoff= 0.9 Cascade percentage= 0.8347956881423917
+Payoff= 0.85 Cascade percentage= 0.8347956881423917
+Payoff= 0.8 Cascade percentage= 0.8398094760591628
+Payoff= 0.75 Cascade percentage= 0.8648784156430184
+Payoff= 0.7 Cascade percentage= 0.8648784156430184
+Payoff= 0.65 Cascade percentage= 0.9576334921032839
+Payoff= 0.6 Cascade percentage= 0.975181749811983
+Payoff= 0.55 Cascade percentage= 0.9801955377287541
+Payoff= 0.5 Cascade percentage= 2.4893457006768616
+Payoff= 0.45 Cascade percentage= 2.4968663825520183
+Payoff= 0.4 Cascade percentage= 3.093507144647781
+Payoff= 0.35 Cascade percentage= 5.6981699674103785
+Payoff= 0.3 Cascade percentage= 12.531962897969416
+Payoff= 0.25 Cascade percentage= 39.77688643770369
+Payoff= 0.21 Cascade percentage= 62.865379794434695
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 50
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.8347956881423917
+Payoff= 0.9 Cascade percentage= 0.8347956881423917
+Payoff= 0.85 Cascade percentage= 0.8347956881423917
+Payoff= 0.8 Cascade percentage= 0.8398094760591628
+Payoff= 0.75 Cascade percentage= 0.8648784156430184
+Payoff= 0.7 Cascade percentage= 0.8648784156430184
+Payoff= 0.65 Cascade percentage= 0.9576334921032839
+Payoff= 0.6 Cascade percentage= 0.975181749811983
+Payoff= 0.55 Cascade percentage= 0.9801955377287541
+Payoff= 0.5 Cascade percentage= 2.4893457006768616
+Payoff= 0.45 Cascade percentage= 2.4968663825520183
+Payoff= 0.4 Cascade percentage= 3.093507144647781
+Payoff= 0.35 Cascade percentage= 5.6981699674103785
+Payoff= 0.3 Cascade percentage= 12.531962897969416
+Payoff= 0.25 Cascade percentage= 39.77688643770369
+Payoff= 0.21 Cascade percentage= 62.865379794434695
+Payoff= 0.2 Cascade percentage= 78.92454249185259
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 50
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.8347956881423917
+Payoff= 0.9 Cascade percentage= 0.8347956881423917
+Payoff= 0.85 Cascade percentage= 0.8347956881423917
+Payoff= 0.8 Cascade percentage= 0.8398094760591628
+Payoff= 0.75 Cascade percentage= 0.8648784156430184
+Payoff= 0.7 Cascade percentage= 0.8648784156430184
+Payoff= 0.65 Cascade percentage= 0.9576334921032839
+Payoff= 0.6 Cascade percentage= 0.975181749811983
+Payoff= 0.55 Cascade percentage= 0.9801955377287541
+Payoff= 0.5 Cascade percentage= 2.4893457006768616
+Payoff= 0.45 Cascade percentage= 2.4968663825520183
+Payoff= 0.4 Cascade percentage= 3.093507144647781
+Payoff= 0.35 Cascade percentage= 5.6981699674103785
+Payoff= 0.3 Cascade percentage= 12.531962897969416
+Payoff= 0.25 Cascade percentage= 39.77688643770369
+Payoff= 0.21 Cascade percentage= 62.865379794434695
+Payoff= 0.2 Cascade percentage= 78.92454249185259
+Payoff= 0.19 Cascade percentage= 81.03785409877162
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 50
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.8347956881423917
+Payoff= 0.9 Cascade percentage= 0.8347956881423917
+Payoff= 0.85 Cascade percentage= 0.8347956881423917
+Payoff= 0.8 Cascade percentage= 0.8398094760591628
+Payoff= 0.75 Cascade percentage= 0.8648784156430184
+Payoff= 0.7 Cascade percentage= 0.8648784156430184
+Payoff= 0.65 Cascade percentage= 0.9576334921032839
+Payoff= 0.6 Cascade percentage= 0.975181749811983
+Payoff= 0.55 Cascade percentage= 0.9801955377287541
+Payoff= 0.5 Cascade percentage= 2.4893457006768616
+Payoff= 0.45 Cascade percentage= 2.4968663825520183
+Payoff= 0.4 Cascade percentage= 3.093507144647781
+Payoff= 0.35 Cascade percentage= 5.6981699674103785
+Payoff= 0.3 Cascade percentage= 12.531962897969416
+Payoff= 0.25 Cascade percentage= 39.77688643770369
+Payoff= 0.21 Cascade percentage= 62.865379794434695
+Payoff= 0.2 Cascade percentage= 78.92454249185259
+Payoff= 0.19 Cascade percentage= 81.03785409877162
+Payoff= 0.18 Cascade percentage= 85.7834043619955
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 50
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.8347956881423917
+Payoff= 0.9 Cascade percentage= 0.8347956881423917
+Payoff= 0.85 Cascade percentage= 0.8347956881423917
+Payoff= 0.8 Cascade percentage= 0.8398094760591628
+Payoff= 0.75 Cascade percentage= 0.8648784156430184
+Payoff= 0.7 Cascade percentage= 0.8648784156430184
+Payoff= 0.65 Cascade percentage= 0.9576334921032839
+Payoff= 0.6 Cascade percentage= 0.975181749811983
+Payoff= 0.55 Cascade percentage= 0.9801955377287541
+Payoff= 0.5 Cascade percentage= 2.4893457006768616
+Payoff= 0.45 Cascade percentage= 2.4968663825520183
+Payoff= 0.4 Cascade percentage= 3.093507144647781
+Payoff= 0.35 Cascade percentage= 5.6981699674103785
+Payoff= 0.3 Cascade percentage= 12.531962897969416
+Payoff= 0.25 Cascade percentage= 39.77688643770369
+Payoff= 0.21 Cascade percentage= 62.865379794434695
+Payoff= 0.2 Cascade percentage= 78.92454249185259
+Payoff= 0.19 Cascade percentage= 81.03785409877162
+Payoff= 0.18 Cascade percentage= 85.7834043619955
+Payoff= 0.17 Cascade percentage= 88.40561544246678
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 50
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.8347956881423917
+Payoff= 0.9 Cascade percentage= 0.8347956881423917
+Payoff= 0.85 Cascade percentage= 0.8347956881423917
+Payoff= 0.8 Cascade percentage= 0.8398094760591628
+Payoff= 0.75 Cascade percentage= 0.8648784156430184
+Payoff= 0.7 Cascade percentage= 0.8648784156430184
+Payoff= 0.65 Cascade percentage= 0.9576334921032839
+Payoff= 0.6 Cascade percentage= 0.975181749811983
+Payoff= 0.55 Cascade percentage= 0.9801955377287541
+Payoff= 0.5 Cascade percentage= 2.4893457006768616
+Payoff= 0.45 Cascade percentage= 2.4968663825520183
+Payoff= 0.4 Cascade percentage= 3.093507144647781
+Payoff= 0.35 Cascade percentage= 5.6981699674103785
+Payoff= 0.3 Cascade percentage= 12.531962897969416
+Payoff= 0.25 Cascade percentage= 39.77688643770369
+Payoff= 0.21 Cascade percentage= 62.865379794434695
+Payoff= 0.2 Cascade percentage= 78.92454249185259
+Payoff= 0.19 Cascade percentage= 81.03785409877162
+Payoff= 0.18 Cascade percentage= 85.7834043619955
+Payoff= 0.17 Cascade percentage= 88.40561544246678
+Payoff= 0.16 Cascade percentage= 88.45575332163449
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 50
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.8347956881423917
+Payoff= 0.9 Cascade percentage= 0.8347956881423917
+Payoff= 0.85 Cascade percentage= 0.8347956881423917
+Payoff= 0.8 Cascade percentage= 0.8398094760591628
+Payoff= 0.75 Cascade percentage= 0.8648784156430184
+Payoff= 0.7 Cascade percentage= 0.8648784156430184
+Payoff= 0.65 Cascade percentage= 0.9576334921032839
+Payoff= 0.6 Cascade percentage= 0.975181749811983
+Payoff= 0.55 Cascade percentage= 0.9801955377287541
+Payoff= 0.5 Cascade percentage= 2.4893457006768616
+Payoff= 0.45 Cascade percentage= 2.4968663825520183
+Payoff= 0.4 Cascade percentage= 3.093507144647781
+Payoff= 0.35 Cascade percentage= 5.6981699674103785
+Payoff= 0.3 Cascade percentage= 12.531962897969416
+Payoff= 0.25 Cascade percentage= 39.77688643770369
+Payoff= 0.21 Cascade percentage= 62.865379794434695
+Payoff= 0.2 Cascade percentage= 78.92454249185259
+Payoff= 0.19 Cascade percentage= 81.03785409877162
+Payoff= 0.18 Cascade percentage= 85.7834043619955
+Payoff= 0.17 Cascade percentage= 88.40561544246678
+Payoff= 0.16 Cascade percentage= 88.45575332163449
+Payoff= 0.15 Cascade percentage= 93.75031336174479
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 50
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.8347956881423917
+Payoff= 0.9 Cascade percentage= 0.8347956881423917
+Payoff= 0.85 Cascade percentage= 0.8347956881423917
+Payoff= 0.8 Cascade percentage= 0.8398094760591628
+Payoff= 0.75 Cascade percentage= 0.8648784156430184
+Payoff= 0.7 Cascade percentage= 0.8648784156430184
+Payoff= 0.65 Cascade percentage= 0.9576334921032839
+Payoff= 0.6 Cascade percentage= 0.975181749811983
+Payoff= 0.55 Cascade percentage= 0.9801955377287541
+Payoff= 0.5 Cascade percentage= 2.4893457006768616
+Payoff= 0.45 Cascade percentage= 2.4968663825520183
+Payoff= 0.4 Cascade percentage= 3.093507144647781
+Payoff= 0.35 Cascade percentage= 5.6981699674103785
+Payoff= 0.3 Cascade percentage= 12.531962897969416
+Payoff= 0.25 Cascade percentage= 39.77688643770369
+Payoff= 0.21 Cascade percentage= 62.865379794434695
+Payoff= 0.2 Cascade percentage= 78.92454249185259
+Payoff= 0.19 Cascade percentage= 81.03785409877162
+Payoff= 0.18 Cascade percentage= 85.7834043619955
+Payoff= 0.17 Cascade percentage= 88.40561544246678
+Payoff= 0.16 Cascade percentage= 88.45575332163449
+Payoff= 0.15 Cascade percentage= 93.75031336174479
+Payoff= 0.14 Cascade percentage= 93.75031336174479
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 50
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.8347956881423917
+Payoff= 0.9 Cascade percentage= 0.8347956881423917
+Payoff= 0.85 Cascade percentage= 0.8347956881423917
+Payoff= 0.8 Cascade percentage= 0.8398094760591628
+Payoff= 0.75 Cascade percentage= 0.8648784156430184
+Payoff= 0.7 Cascade percentage= 0.8648784156430184
+Payoff= 0.65 Cascade percentage= 0.9576334921032839
+Payoff= 0.6 Cascade percentage= 0.975181749811983
+Payoff= 0.55 Cascade percentage= 0.9801955377287541
+Payoff= 0.5 Cascade percentage= 2.4893457006768616
+Payoff= 0.45 Cascade percentage= 2.4968663825520183
+Payoff= 0.4 Cascade percentage= 3.093507144647781
+Payoff= 0.35 Cascade percentage= 5.6981699674103785
+Payoff= 0.3 Cascade percentage= 12.531962897969416
+Payoff= 0.25 Cascade percentage= 39.77688643770369
+Payoff= 0.21 Cascade percentage= 62.865379794434695
+Payoff= 0.2 Cascade percentage= 78.92454249185259
+Payoff= 0.19 Cascade percentage= 81.03785409877162
+Payoff= 0.18 Cascade percentage= 85.7834043619955
+Payoff= 0.17 Cascade percentage= 88.40561544246678
+Payoff= 0.16 Cascade percentage= 88.45575332163449
+Payoff= 0.15 Cascade percentage= 93.75031336174479
+Payoff= 0.14 Cascade percentage= 93.75031336174479
+Payoff= 0.13 Cascade percentage= 93.75031336174479
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 50
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.8347956881423917
+Payoff= 0.9 Cascade percentage= 0.8347956881423917
+Payoff= 0.85 Cascade percentage= 0.8347956881423917
+Payoff= 0.8 Cascade percentage= 0.8398094760591628
+Payoff= 0.75 Cascade percentage= 0.8648784156430184
+Payoff= 0.7 Cascade percentage= 0.8648784156430184
+Payoff= 0.65 Cascade percentage= 0.9576334921032839
+Payoff= 0.6 Cascade percentage= 0.975181749811983
+Payoff= 0.55 Cascade percentage= 0.9801955377287541
+Payoff= 0.5 Cascade percentage= 2.4893457006768616
+Payoff= 0.45 Cascade percentage= 2.4968663825520183
+Payoff= 0.4 Cascade percentage= 3.093507144647781
+Payoff= 0.35 Cascade percentage= 5.6981699674103785
+Payoff= 0.3 Cascade percentage= 12.531962897969416
+Payoff= 0.25 Cascade percentage= 39.77688643770369
+Payoff= 0.21 Cascade percentage= 62.865379794434695
+Payoff= 0.2 Cascade percentage= 78.92454249185259
+Payoff= 0.19 Cascade percentage= 81.03785409877162
+Payoff= 0.18 Cascade percentage= 85.7834043619955
+Payoff= 0.17 Cascade percentage= 88.40561544246678
+Payoff= 0.16 Cascade percentage= 88.45575332163449
+Payoff= 0.15 Cascade percentage= 93.75031336174479
+Payoff= 0.14 Cascade percentage= 93.75031336174479
+Payoff= 0.13 Cascade percentage= 93.75031336174479
+Payoff= 0.12 Cascade percentage= 93.75783404361995
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 50
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.8347956881423917
+Payoff= 0.9 Cascade percentage= 0.8347956881423917
+Payoff= 0.85 Cascade percentage= 0.8347956881423917
+Payoff= 0.8 Cascade percentage= 0.8398094760591628
+Payoff= 0.75 Cascade percentage= 0.8648784156430184
+Payoff= 0.7 Cascade percentage= 0.8648784156430184
+Payoff= 0.65 Cascade percentage= 0.9576334921032839
+Payoff= 0.6 Cascade percentage= 0.975181749811983
+Payoff= 0.55 Cascade percentage= 0.9801955377287541
+Payoff= 0.5 Cascade percentage= 2.4893457006768616
+Payoff= 0.45 Cascade percentage= 2.4968663825520183
+Payoff= 0.4 Cascade percentage= 3.093507144647781
+Payoff= 0.35 Cascade percentage= 5.6981699674103785
+Payoff= 0.3 Cascade percentage= 12.531962897969416
+Payoff= 0.25 Cascade percentage= 39.77688643770369
+Payoff= 0.21 Cascade percentage= 62.865379794434695
+Payoff= 0.2 Cascade percentage= 78.92454249185259
+Payoff= 0.19 Cascade percentage= 81.03785409877162
+Payoff= 0.18 Cascade percentage= 85.7834043619955
+Payoff= 0.17 Cascade percentage= 88.40561544246678
+Payoff= 0.16 Cascade percentage= 88.45575332163449
+Payoff= 0.15 Cascade percentage= 93.75031336174479
+Payoff= 0.14 Cascade percentage= 93.75031336174479
+Payoff= 0.13 Cascade percentage= 93.75031336174479
+Payoff= 0.12 Cascade percentage= 93.75783404361995
+Payoff= 0.11 Cascade percentage= 93.75783404361995
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 50
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.8347956881423917
+Payoff= 0.9 Cascade percentage= 0.8347956881423917
+Payoff= 0.85 Cascade percentage= 0.8347956881423917
+Payoff= 0.8 Cascade percentage= 0.8398094760591628
+Payoff= 0.75 Cascade percentage= 0.8648784156430184
+Payoff= 0.7 Cascade percentage= 0.8648784156430184
+Payoff= 0.65 Cascade percentage= 0.9576334921032839
+Payoff= 0.6 Cascade percentage= 0.975181749811983
+Payoff= 0.55 Cascade percentage= 0.9801955377287541
+Payoff= 0.5 Cascade percentage= 2.4893457006768616
+Payoff= 0.45 Cascade percentage= 2.4968663825520183
+Payoff= 0.4 Cascade percentage= 3.093507144647781
+Payoff= 0.35 Cascade percentage= 5.6981699674103785
+Payoff= 0.3 Cascade percentage= 12.531962897969416
+Payoff= 0.25 Cascade percentage= 39.77688643770369
+Payoff= 0.21 Cascade percentage= 62.865379794434695
+Payoff= 0.2 Cascade percentage= 78.92454249185259
+Payoff= 0.19 Cascade percentage= 81.03785409877162
+Payoff= 0.18 Cascade percentage= 85.7834043619955
+Payoff= 0.17 Cascade percentage= 88.40561544246678
+Payoff= 0.16 Cascade percentage= 88.45575332163449
+Payoff= 0.15 Cascade percentage= 93.75031336174479
+Payoff= 0.14 Cascade percentage= 93.75031336174479
+Payoff= 0.13 Cascade percentage= 93.75031336174479
+Payoff= 0.12 Cascade percentage= 93.75783404361995
+Payoff= 0.11 Cascade percentage= 93.75783404361995
+Payoff= 0.1 Cascade percentage= 98.12735021308599
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 50
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.8347956881423917
+Payoff= 0.9 Cascade percentage= 0.8347956881423917
+Payoff= 0.85 Cascade percentage= 0.8347956881423917
+Payoff= 0.8 Cascade percentage= 0.8398094760591628
+Payoff= 0.75 Cascade percentage= 0.8648784156430184
+Payoff= 0.7 Cascade percentage= 0.8648784156430184
+Payoff= 0.65 Cascade percentage= 0.9576334921032839
+Payoff= 0.6 Cascade percentage= 0.975181749811983
+Payoff= 0.55 Cascade percentage= 0.9801955377287541
+Payoff= 0.5 Cascade percentage= 2.4893457006768616
+Payoff= 0.45 Cascade percentage= 2.4968663825520183
+Payoff= 0.4 Cascade percentage= 3.093507144647781
+Payoff= 0.35 Cascade percentage= 5.6981699674103785
+Payoff= 0.3 Cascade percentage= 12.531962897969416
+Payoff= 0.25 Cascade percentage= 39.77688643770369
+Payoff= 0.21 Cascade percentage= 62.865379794434695
+Payoff= 0.2 Cascade percentage= 78.92454249185259
+Payoff= 0.19 Cascade percentage= 81.03785409877162
+Payoff= 0.18 Cascade percentage= 85.7834043619955
+Payoff= 0.17 Cascade percentage= 88.40561544246678
+Payoff= 0.16 Cascade percentage= 88.45575332163449
+Payoff= 0.15 Cascade percentage= 93.75031336174479
+Payoff= 0.14 Cascade percentage= 93.75031336174479
+Payoff= 0.13 Cascade percentage= 93.75031336174479
+Payoff= 0.12 Cascade percentage= 93.75783404361995
+Payoff= 0.11 Cascade percentage= 93.75783404361995
+Payoff= 0.1 Cascade percentage= 98.12735021308599
+Payoff= 0.09 Cascade percentage= 98.12985710704437
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 100
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 2.013201320132013
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 100
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 2.013201320132013
+Payoff= 0.9 Cascade percentage= 2.013201320132013
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 100
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 2.013201320132013
+Payoff= 0.9 Cascade percentage= 2.013201320132013
+Payoff= 0.85 Cascade percentage= 2.013201320132013
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 100
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 2.013201320132013
+Payoff= 0.9 Cascade percentage= 2.013201320132013
+Payoff= 0.85 Cascade percentage= 2.013201320132013
+Payoff= 0.8 Cascade percentage= 2.063975628332064
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 100
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 2.013201320132013
+Payoff= 0.9 Cascade percentage= 2.013201320132013
+Payoff= 0.85 Cascade percentage= 2.013201320132013
+Payoff= 0.8 Cascade percentage= 2.063975628332064
+Payoff= 0.75 Cascade percentage= 2.2670728611322666
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 100
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 2.013201320132013
+Payoff= 0.9 Cascade percentage= 2.013201320132013
+Payoff= 0.85 Cascade percentage= 2.013201320132013
+Payoff= 0.8 Cascade percentage= 2.063975628332064
+Payoff= 0.75 Cascade percentage= 2.2670728611322666
+Payoff= 0.7 Cascade percentage= 2.2670728611322666
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 100
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 2.013201320132013
+Payoff= 0.9 Cascade percentage= 2.013201320132013
+Payoff= 0.85 Cascade percentage= 2.013201320132013
+Payoff= 0.8 Cascade percentage= 2.063975628332064
+Payoff= 0.75 Cascade percentage= 2.2670728611322666
+Payoff= 0.7 Cascade percentage= 2.2670728611322666
+Payoff= 0.65 Cascade percentage= 2.668189895912668
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 100
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 2.013201320132013
+Payoff= 0.9 Cascade percentage= 2.013201320132013
+Payoff= 0.85 Cascade percentage= 2.013201320132013
+Payoff= 0.8 Cascade percentage= 2.063975628332064
+Payoff= 0.75 Cascade percentage= 2.2670728611322666
+Payoff= 0.7 Cascade percentage= 2.2670728611322666
+Payoff= 0.65 Cascade percentage= 2.668189895912668
+Payoff= 0.6 Cascade percentage= 2.8408225437928407
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 100
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 2.013201320132013
+Payoff= 0.9 Cascade percentage= 2.013201320132013
+Payoff= 0.85 Cascade percentage= 2.013201320132013
+Payoff= 0.8 Cascade percentage= 2.063975628332064
+Payoff= 0.75 Cascade percentage= 2.2670728611322666
+Payoff= 0.7 Cascade percentage= 2.2670728611322666
+Payoff= 0.65 Cascade percentage= 2.668189895912668
+Payoff= 0.6 Cascade percentage= 2.8408225437928407
+Payoff= 0.55 Cascade percentage= 3.1378522467631376
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 100
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 2.013201320132013
+Payoff= 0.9 Cascade percentage= 2.013201320132013
+Payoff= 0.85 Cascade percentage= 2.013201320132013
+Payoff= 0.8 Cascade percentage= 2.063975628332064
+Payoff= 0.75 Cascade percentage= 2.2670728611322666
+Payoff= 0.7 Cascade percentage= 2.2670728611322666
+Payoff= 0.65 Cascade percentage= 2.668189895912668
+Payoff= 0.6 Cascade percentage= 2.8408225437928407
+Payoff= 0.55 Cascade percentage= 3.1378522467631376
+Payoff= 0.5 Cascade percentage= 10.345265295760344
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 100
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 2.013201320132013
+Payoff= 0.9 Cascade percentage= 2.013201320132013
+Payoff= 0.85 Cascade percentage= 2.013201320132013
+Payoff= 0.8 Cascade percentage= 2.063975628332064
+Payoff= 0.75 Cascade percentage= 2.2670728611322666
+Payoff= 0.7 Cascade percentage= 2.2670728611322666
+Payoff= 0.65 Cascade percentage= 2.668189895912668
+Payoff= 0.6 Cascade percentage= 2.8408225437928407
+Payoff= 0.55 Cascade percentage= 3.1378522467631376
+Payoff= 0.5 Cascade percentage= 10.345265295760344
+Payoff= 0.45 Cascade percentage= 10.439197765930441
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 100
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 2.013201320132013
+Payoff= 0.9 Cascade percentage= 2.013201320132013
+Payoff= 0.85 Cascade percentage= 2.013201320132013
+Payoff= 0.8 Cascade percentage= 2.063975628332064
+Payoff= 0.75 Cascade percentage= 2.2670728611322666
+Payoff= 0.7 Cascade percentage= 2.2670728611322666
+Payoff= 0.65 Cascade percentage= 2.668189895912668
+Payoff= 0.6 Cascade percentage= 2.8408225437928407
+Payoff= 0.55 Cascade percentage= 3.1378522467631376
+Payoff= 0.5 Cascade percentage= 10.345265295760344
+Payoff= 0.45 Cascade percentage= 10.439197765930441
+Payoff= 0.4 Cascade percentage= 12.73927392739274
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 100
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 2.013201320132013
+Payoff= 0.9 Cascade percentage= 2.013201320132013
+Payoff= 0.85 Cascade percentage= 2.013201320132013
+Payoff= 0.8 Cascade percentage= 2.063975628332064
+Payoff= 0.75 Cascade percentage= 2.2670728611322666
+Payoff= 0.7 Cascade percentage= 2.2670728611322666
+Payoff= 0.65 Cascade percentage= 2.668189895912668
+Payoff= 0.6 Cascade percentage= 2.8408225437928407
+Payoff= 0.55 Cascade percentage= 3.1378522467631376
+Payoff= 0.5 Cascade percentage= 10.345265295760344
+Payoff= 0.45 Cascade percentage= 10.439197765930441
+Payoff= 0.4 Cascade percentage= 12.73927392739274
+Payoff= 0.35 Cascade percentage= 29.195227215029195
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 100
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 2.013201320132013
+Payoff= 0.9 Cascade percentage= 2.013201320132013
+Payoff= 0.85 Cascade percentage= 2.013201320132013
+Payoff= 0.8 Cascade percentage= 2.063975628332064
+Payoff= 0.75 Cascade percentage= 2.2670728611322666
+Payoff= 0.7 Cascade percentage= 2.2670728611322666
+Payoff= 0.65 Cascade percentage= 2.668189895912668
+Payoff= 0.6 Cascade percentage= 2.8408225437928407
+Payoff= 0.55 Cascade percentage= 3.1378522467631376
+Payoff= 0.5 Cascade percentage= 10.345265295760344
+Payoff= 0.45 Cascade percentage= 10.439197765930441
+Payoff= 0.4 Cascade percentage= 12.73927392739274
+Payoff= 0.35 Cascade percentage= 29.195227215029195
+Payoff= 0.3 Cascade percentage= 42.67580604214268
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 100
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 2.013201320132013
+Payoff= 0.9 Cascade percentage= 2.013201320132013
+Payoff= 0.85 Cascade percentage= 2.013201320132013
+Payoff= 0.8 Cascade percentage= 2.063975628332064
+Payoff= 0.75 Cascade percentage= 2.2670728611322666
+Payoff= 0.7 Cascade percentage= 2.2670728611322666
+Payoff= 0.65 Cascade percentage= 2.668189895912668
+Payoff= 0.6 Cascade percentage= 2.8408225437928407
+Payoff= 0.55 Cascade percentage= 3.1378522467631376
+Payoff= 0.5 Cascade percentage= 10.345265295760344
+Payoff= 0.45 Cascade percentage= 10.439197765930441
+Payoff= 0.4 Cascade percentage= 12.73927392739274
+Payoff= 0.35 Cascade percentage= 29.195227215029195
+Payoff= 0.3 Cascade percentage= 42.67580604214268
+Payoff= 0.25 Cascade percentage= 78.16704747397817
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 100
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 2.013201320132013
+Payoff= 0.9 Cascade percentage= 2.013201320132013
+Payoff= 0.85 Cascade percentage= 2.013201320132013
+Payoff= 0.8 Cascade percentage= 2.063975628332064
+Payoff= 0.75 Cascade percentage= 2.2670728611322666
+Payoff= 0.7 Cascade percentage= 2.2670728611322666
+Payoff= 0.65 Cascade percentage= 2.668189895912668
+Payoff= 0.6 Cascade percentage= 2.8408225437928407
+Payoff= 0.55 Cascade percentage= 3.1378522467631376
+Payoff= 0.5 Cascade percentage= 10.345265295760344
+Payoff= 0.45 Cascade percentage= 10.439197765930441
+Payoff= 0.4 Cascade percentage= 12.73927392739274
+Payoff= 0.35 Cascade percentage= 29.195227215029195
+Payoff= 0.3 Cascade percentage= 42.67580604214268
+Payoff= 0.25 Cascade percentage= 78.16704747397817
+Payoff= 0.21 Cascade percentage= 87.71261741558772
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 100
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 2.013201320132013
+Payoff= 0.9 Cascade percentage= 2.013201320132013
+Payoff= 0.85 Cascade percentage= 2.013201320132013
+Payoff= 0.8 Cascade percentage= 2.063975628332064
+Payoff= 0.75 Cascade percentage= 2.2670728611322666
+Payoff= 0.7 Cascade percentage= 2.2670728611322666
+Payoff= 0.65 Cascade percentage= 2.668189895912668
+Payoff= 0.6 Cascade percentage= 2.8408225437928407
+Payoff= 0.55 Cascade percentage= 3.1378522467631376
+Payoff= 0.5 Cascade percentage= 10.345265295760344
+Payoff= 0.45 Cascade percentage= 10.439197765930441
+Payoff= 0.4 Cascade percentage= 12.73927392739274
+Payoff= 0.35 Cascade percentage= 29.195227215029195
+Payoff= 0.3 Cascade percentage= 42.67580604214268
+Payoff= 0.25 Cascade percentage= 78.16704747397817
+Payoff= 0.21 Cascade percentage= 87.71261741558772
+Payoff= 0.2 Cascade percentage= 93.75476009139376
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 100
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 2.013201320132013
+Payoff= 0.9 Cascade percentage= 2.013201320132013
+Payoff= 0.85 Cascade percentage= 2.013201320132013
+Payoff= 0.8 Cascade percentage= 2.063975628332064
+Payoff= 0.75 Cascade percentage= 2.2670728611322666
+Payoff= 0.7 Cascade percentage= 2.2670728611322666
+Payoff= 0.65 Cascade percentage= 2.668189895912668
+Payoff= 0.6 Cascade percentage= 2.8408225437928407
+Payoff= 0.55 Cascade percentage= 3.1378522467631376
+Payoff= 0.5 Cascade percentage= 10.345265295760344
+Payoff= 0.45 Cascade percentage= 10.439197765930441
+Payoff= 0.4 Cascade percentage= 12.73927392739274
+Payoff= 0.35 Cascade percentage= 29.195227215029195
+Payoff= 0.3 Cascade percentage= 42.67580604214268
+Payoff= 0.25 Cascade percentage= 78.16704747397817
+Payoff= 0.21 Cascade percentage= 87.71261741558772
+Payoff= 0.2 Cascade percentage= 93.75476009139376
+Payoff= 0.19 Cascade percentage= 93.75476009139376
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 100
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 2.013201320132013
+Payoff= 0.9 Cascade percentage= 2.013201320132013
+Payoff= 0.85 Cascade percentage= 2.013201320132013
+Payoff= 0.8 Cascade percentage= 2.063975628332064
+Payoff= 0.75 Cascade percentage= 2.2670728611322666
+Payoff= 0.7 Cascade percentage= 2.2670728611322666
+Payoff= 0.65 Cascade percentage= 2.668189895912668
+Payoff= 0.6 Cascade percentage= 2.8408225437928407
+Payoff= 0.55 Cascade percentage= 3.1378522467631376
+Payoff= 0.5 Cascade percentage= 10.345265295760344
+Payoff= 0.45 Cascade percentage= 10.439197765930441
+Payoff= 0.4 Cascade percentage= 12.73927392739274
+Payoff= 0.35 Cascade percentage= 29.195227215029195
+Payoff= 0.3 Cascade percentage= 42.67580604214268
+Payoff= 0.25 Cascade percentage= 78.16704747397817
+Payoff= 0.21 Cascade percentage= 87.71261741558772
+Payoff= 0.2 Cascade percentage= 93.75476009139376
+Payoff= 0.19 Cascade percentage= 93.75476009139376
+Payoff= 0.18 Cascade percentage= 94.13556740289414
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 100
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 2.013201320132013
+Payoff= 0.9 Cascade percentage= 2.013201320132013
+Payoff= 0.85 Cascade percentage= 2.013201320132013
+Payoff= 0.8 Cascade percentage= 2.063975628332064
+Payoff= 0.75 Cascade percentage= 2.2670728611322666
+Payoff= 0.7 Cascade percentage= 2.2670728611322666
+Payoff= 0.65 Cascade percentage= 2.668189895912668
+Payoff= 0.6 Cascade percentage= 2.8408225437928407
+Payoff= 0.55 Cascade percentage= 3.1378522467631376
+Payoff= 0.5 Cascade percentage= 10.345265295760344
+Payoff= 0.45 Cascade percentage= 10.439197765930441
+Payoff= 0.4 Cascade percentage= 12.73927392739274
+Payoff= 0.35 Cascade percentage= 29.195227215029195
+Payoff= 0.3 Cascade percentage= 42.67580604214268
+Payoff= 0.25 Cascade percentage= 78.16704747397817
+Payoff= 0.21 Cascade percentage= 87.71261741558772
+Payoff= 0.2 Cascade percentage= 93.75476009139376
+Payoff= 0.19 Cascade percentage= 93.75476009139376
+Payoff= 0.18 Cascade percentage= 94.13556740289414
+Payoff= 0.17 Cascade percentage= 94.21172886519422
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 100
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 2.013201320132013
+Payoff= 0.9 Cascade percentage= 2.013201320132013
+Payoff= 0.85 Cascade percentage= 2.013201320132013
+Payoff= 0.8 Cascade percentage= 2.063975628332064
+Payoff= 0.75 Cascade percentage= 2.2670728611322666
+Payoff= 0.7 Cascade percentage= 2.2670728611322666
+Payoff= 0.65 Cascade percentage= 2.668189895912668
+Payoff= 0.6 Cascade percentage= 2.8408225437928407
+Payoff= 0.55 Cascade percentage= 3.1378522467631376
+Payoff= 0.5 Cascade percentage= 10.345265295760344
+Payoff= 0.45 Cascade percentage= 10.439197765930441
+Payoff= 0.4 Cascade percentage= 12.73927392739274
+Payoff= 0.35 Cascade percentage= 29.195227215029195
+Payoff= 0.3 Cascade percentage= 42.67580604214268
+Payoff= 0.25 Cascade percentage= 78.16704747397817
+Payoff= 0.21 Cascade percentage= 87.71261741558772
+Payoff= 0.2 Cascade percentage= 93.75476009139376
+Payoff= 0.19 Cascade percentage= 93.75476009139376
+Payoff= 0.18 Cascade percentage= 94.13556740289414
+Payoff= 0.17 Cascade percentage= 94.21172886519422
+Payoff= 0.16 Cascade percentage= 94.26250317339428
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 100
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 2.013201320132013
+Payoff= 0.9 Cascade percentage= 2.013201320132013
+Payoff= 0.85 Cascade percentage= 2.013201320132013
+Payoff= 0.8 Cascade percentage= 2.063975628332064
+Payoff= 0.75 Cascade percentage= 2.2670728611322666
+Payoff= 0.7 Cascade percentage= 2.2670728611322666
+Payoff= 0.65 Cascade percentage= 2.668189895912668
+Payoff= 0.6 Cascade percentage= 2.8408225437928407
+Payoff= 0.55 Cascade percentage= 3.1378522467631376
+Payoff= 0.5 Cascade percentage= 10.345265295760344
+Payoff= 0.45 Cascade percentage= 10.439197765930441
+Payoff= 0.4 Cascade percentage= 12.73927392739274
+Payoff= 0.35 Cascade percentage= 29.195227215029195
+Payoff= 0.3 Cascade percentage= 42.67580604214268
+Payoff= 0.25 Cascade percentage= 78.16704747397817
+Payoff= 0.21 Cascade percentage= 87.71261741558772
+Payoff= 0.2 Cascade percentage= 93.75476009139376
+Payoff= 0.19 Cascade percentage= 93.75476009139376
+Payoff= 0.18 Cascade percentage= 94.13556740289414
+Payoff= 0.17 Cascade percentage= 94.21172886519422
+Payoff= 0.16 Cascade percentage= 94.26250317339428
+Payoff= 0.15 Cascade percentage= 99.36532114749936
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 100
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 2.013201320132013
+Payoff= 0.9 Cascade percentage= 2.013201320132013
+Payoff= 0.85 Cascade percentage= 2.013201320132013
+Payoff= 0.8 Cascade percentage= 2.063975628332064
+Payoff= 0.75 Cascade percentage= 2.2670728611322666
+Payoff= 0.7 Cascade percentage= 2.2670728611322666
+Payoff= 0.65 Cascade percentage= 2.668189895912668
+Payoff= 0.6 Cascade percentage= 2.8408225437928407
+Payoff= 0.55 Cascade percentage= 3.1378522467631376
+Payoff= 0.5 Cascade percentage= 10.345265295760344
+Payoff= 0.45 Cascade percentage= 10.439197765930441
+Payoff= 0.4 Cascade percentage= 12.73927392739274
+Payoff= 0.35 Cascade percentage= 29.195227215029195
+Payoff= 0.3 Cascade percentage= 42.67580604214268
+Payoff= 0.25 Cascade percentage= 78.16704747397817
+Payoff= 0.21 Cascade percentage= 87.71261741558772
+Payoff= 0.2 Cascade percentage= 93.75476009139376
+Payoff= 0.19 Cascade percentage= 93.75476009139376
+Payoff= 0.18 Cascade percentage= 94.13556740289414
+Payoff= 0.17 Cascade percentage= 94.21172886519422
+Payoff= 0.16 Cascade percentage= 94.26250317339428
+Payoff= 0.15 Cascade percentage= 99.36532114749936
+Payoff= 0.14 Cascade percentage= 99.36532114749936
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 100
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 2.013201320132013
+Payoff= 0.9 Cascade percentage= 2.013201320132013
+Payoff= 0.85 Cascade percentage= 2.013201320132013
+Payoff= 0.8 Cascade percentage= 2.063975628332064
+Payoff= 0.75 Cascade percentage= 2.2670728611322666
+Payoff= 0.7 Cascade percentage= 2.2670728611322666
+Payoff= 0.65 Cascade percentage= 2.668189895912668
+Payoff= 0.6 Cascade percentage= 2.8408225437928407
+Payoff= 0.55 Cascade percentage= 3.1378522467631376
+Payoff= 0.5 Cascade percentage= 10.345265295760344
+Payoff= 0.45 Cascade percentage= 10.439197765930441
+Payoff= 0.4 Cascade percentage= 12.73927392739274
+Payoff= 0.35 Cascade percentage= 29.195227215029195
+Payoff= 0.3 Cascade percentage= 42.67580604214268
+Payoff= 0.25 Cascade percentage= 78.16704747397817
+Payoff= 0.21 Cascade percentage= 87.71261741558772
+Payoff= 0.2 Cascade percentage= 93.75476009139376
+Payoff= 0.19 Cascade percentage= 93.75476009139376
+Payoff= 0.18 Cascade percentage= 94.13556740289414
+Payoff= 0.17 Cascade percentage= 94.21172886519422
+Payoff= 0.16 Cascade percentage= 94.26250317339428
+Payoff= 0.15 Cascade percentage= 99.36532114749936
+Payoff= 0.14 Cascade percentage= 99.36532114749936
+Payoff= 0.13 Cascade percentage= 99.36532114749936
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 100
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 2.013201320132013
+Payoff= 0.9 Cascade percentage= 2.013201320132013
+Payoff= 0.85 Cascade percentage= 2.013201320132013
+Payoff= 0.8 Cascade percentage= 2.063975628332064
+Payoff= 0.75 Cascade percentage= 2.2670728611322666
+Payoff= 0.7 Cascade percentage= 2.2670728611322666
+Payoff= 0.65 Cascade percentage= 2.668189895912668
+Payoff= 0.6 Cascade percentage= 2.8408225437928407
+Payoff= 0.55 Cascade percentage= 3.1378522467631376
+Payoff= 0.5 Cascade percentage= 10.345265295760344
+Payoff= 0.45 Cascade percentage= 10.439197765930441
+Payoff= 0.4 Cascade percentage= 12.73927392739274
+Payoff= 0.35 Cascade percentage= 29.195227215029195
+Payoff= 0.3 Cascade percentage= 42.67580604214268
+Payoff= 0.25 Cascade percentage= 78.16704747397817
+Payoff= 0.21 Cascade percentage= 87.71261741558772
+Payoff= 0.2 Cascade percentage= 93.75476009139376
+Payoff= 0.19 Cascade percentage= 93.75476009139376
+Payoff= 0.18 Cascade percentage= 94.13556740289414
+Payoff= 0.17 Cascade percentage= 94.21172886519422
+Payoff= 0.16 Cascade percentage= 94.26250317339428
+Payoff= 0.15 Cascade percentage= 99.36532114749936
+Payoff= 0.14 Cascade percentage= 99.36532114749936
+Payoff= 0.13 Cascade percentage= 99.36532114749936
+Payoff= 0.12 Cascade percentage= 99.36532114749936
+Randomly choose key nodes from the 100 largest PRank nodes as initial adopters
+Initial adopters No.= 100
+For each payoff,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 2.013201320132013
+Payoff= 0.9 Cascade percentage= 2.013201320132013
+Payoff= 0.85 Cascade percentage= 2.013201320132013
+Payoff= 0.8 Cascade percentage= 2.063975628332064
+Payoff= 0.75 Cascade percentage= 2.2670728611322666
+Payoff= 0.7 Cascade percentage= 2.2670728611322666
+Payoff= 0.65 Cascade percentage= 2.668189895912668
+Payoff= 0.6 Cascade percentage= 2.8408225437928407
+Payoff= 0.55 Cascade percentage= 3.1378522467631376
+Payoff= 0.5 Cascade percentage= 10.345265295760344
+Payoff= 0.45 Cascade percentage= 10.439197765930441
+Payoff= 0.4 Cascade percentage= 12.73927392739274
+Payoff= 0.35 Cascade percentage= 29.195227215029195
+Payoff= 0.3 Cascade percentage= 42.67580604214268
+Payoff= 0.25 Cascade percentage= 78.16704747397817
+Payoff= 0.21 Cascade percentage= 87.71261741558772
+Payoff= 0.2 Cascade percentage= 93.75476009139376
+Payoff= 0.19 Cascade percentage= 93.75476009139376
+Payoff= 0.18 Cascade percentage= 94.13556740289414
+Payoff= 0.17 Cascade percentage= 94.21172886519422
+Payoff= 0.16 Cascade percentage= 94.26250317339428
+Payoff= 0.15 Cascade percentage= 99.36532114749936
+Payoff= 0.14 Cascade percentage= 99.36532114749936
+Payoff= 0.13 Cascade percentage= 99.36532114749936
+Payoff= 0.12 Cascade percentage= 99.36532114749936
+Payoff= 0.11 Cascade percentage= 99.36532114749936
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Payoff= 0.9 Cascade percentage= 0.0
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Payoff= 0.9 Cascade percentage= 0.0
+Payoff= 0.85 Cascade percentage= 0.0
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Payoff= 0.9 Cascade percentage= 0.0
+Payoff= 0.85 Cascade percentage= 0.0
+Payoff= 0.8 Cascade percentage= 0.0
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Payoff= 0.9 Cascade percentage= 0.0
+Payoff= 0.85 Cascade percentage= 0.0
+Payoff= 0.8 Cascade percentage= 0.0
+Payoff= 0.75 Cascade percentage= 0.0
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Payoff= 0.9 Cascade percentage= 0.0
+Payoff= 0.85 Cascade percentage= 0.0
+Payoff= 0.8 Cascade percentage= 0.0
+Payoff= 0.75 Cascade percentage= 0.0
+Payoff= 0.7 Cascade percentage= 0.0
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Payoff= 0.9 Cascade percentage= 0.0
+Payoff= 0.85 Cascade percentage= 0.0
+Payoff= 0.8 Cascade percentage= 0.0
+Payoff= 0.75 Cascade percentage= 0.0
+Payoff= 0.7 Cascade percentage= 0.0
+Payoff= 0.65 Cascade percentage= 0.0
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Payoff= 0.9 Cascade percentage= 0.0
+Payoff= 0.85 Cascade percentage= 0.0
+Payoff= 0.8 Cascade percentage= 0.0
+Payoff= 0.75 Cascade percentage= 0.0
+Payoff= 0.7 Cascade percentage= 0.0
+Payoff= 0.65 Cascade percentage= 0.0
+Payoff= 0.6 Cascade percentage= 0.0
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Payoff= 0.9 Cascade percentage= 0.0
+Payoff= 0.85 Cascade percentage= 0.0
+Payoff= 0.8 Cascade percentage= 0.0
+Payoff= 0.75 Cascade percentage= 0.0
+Payoff= 0.7 Cascade percentage= 0.0
+Payoff= 0.65 Cascade percentage= 0.0
+Payoff= 0.6 Cascade percentage= 0.0
+Payoff= 0.55 Cascade percentage= 0.0
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Payoff= 0.9 Cascade percentage= 0.0
+Payoff= 0.85 Cascade percentage= 0.0
+Payoff= 0.8 Cascade percentage= 0.0
+Payoff= 0.75 Cascade percentage= 0.0
+Payoff= 0.7 Cascade percentage= 0.0
+Payoff= 0.65 Cascade percentage= 0.0
+Payoff= 0.6 Cascade percentage= 0.0
+Payoff= 0.55 Cascade percentage= 0.0
+Payoff= 0.5 Cascade percentage= 0.0
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Payoff= 0.9 Cascade percentage= 0.0
+Payoff= 0.85 Cascade percentage= 0.0
+Payoff= 0.8 Cascade percentage= 0.0
+Payoff= 0.75 Cascade percentage= 0.0
+Payoff= 0.7 Cascade percentage= 0.0
+Payoff= 0.65 Cascade percentage= 0.0
+Payoff= 0.6 Cascade percentage= 0.0
+Payoff= 0.55 Cascade percentage= 0.0
+Payoff= 0.5 Cascade percentage= 0.0
+Payoff= 0.45 Cascade percentage= 0.0
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Payoff= 0.9 Cascade percentage= 0.0
+Payoff= 0.85 Cascade percentage= 0.0
+Payoff= 0.8 Cascade percentage= 0.0
+Payoff= 0.75 Cascade percentage= 0.0
+Payoff= 0.7 Cascade percentage= 0.0
+Payoff= 0.65 Cascade percentage= 0.0
+Payoff= 0.6 Cascade percentage= 0.0
+Payoff= 0.55 Cascade percentage= 0.0
+Payoff= 0.5 Cascade percentage= 0.0
+Payoff= 0.45 Cascade percentage= 0.0
+Payoff= 0.4 Cascade percentage= 0.0
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Payoff= 0.9 Cascade percentage= 0.0
+Payoff= 0.85 Cascade percentage= 0.0
+Payoff= 0.8 Cascade percentage= 0.0
+Payoff= 0.75 Cascade percentage= 0.0
+Payoff= 0.7 Cascade percentage= 0.0
+Payoff= 0.65 Cascade percentage= 0.0
+Payoff= 0.6 Cascade percentage= 0.0
+Payoff= 0.55 Cascade percentage= 0.0
+Payoff= 0.5 Cascade percentage= 0.0
+Payoff= 0.45 Cascade percentage= 0.0
+Payoff= 0.4 Cascade percentage= 0.0
+Payoff= 0.35 Cascade percentage= 0.0
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Payoff= 0.9 Cascade percentage= 0.0
+Payoff= 0.85 Cascade percentage= 0.0
+Payoff= 0.8 Cascade percentage= 0.0
+Payoff= 0.75 Cascade percentage= 0.0
+Payoff= 0.7 Cascade percentage= 0.0
+Payoff= 0.65 Cascade percentage= 0.0
+Payoff= 0.6 Cascade percentage= 0.0
+Payoff= 0.55 Cascade percentage= 0.0
+Payoff= 0.5 Cascade percentage= 0.0
+Payoff= 0.45 Cascade percentage= 0.0
+Payoff= 0.4 Cascade percentage= 0.0
+Payoff= 0.35 Cascade percentage= 0.0
+Payoff= 0.3 Cascade percentage= 0.0
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Payoff= 0.9 Cascade percentage= 0.0
+Payoff= 0.85 Cascade percentage= 0.0
+Payoff= 0.8 Cascade percentage= 0.0
+Payoff= 0.75 Cascade percentage= 0.0
+Payoff= 0.7 Cascade percentage= 0.0
+Payoff= 0.65 Cascade percentage= 0.0
+Payoff= 0.6 Cascade percentage= 0.0
+Payoff= 0.55 Cascade percentage= 0.0
+Payoff= 0.5 Cascade percentage= 0.0
+Payoff= 0.45 Cascade percentage= 0.0
+Payoff= 0.4 Cascade percentage= 0.0
+Payoff= 0.35 Cascade percentage= 0.0
+Payoff= 0.3 Cascade percentage= 0.0
+Payoff= 0.25 Cascade percentage= 0.0
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Payoff= 0.9 Cascade percentage= 0.0
+Payoff= 0.85 Cascade percentage= 0.0
+Payoff= 0.8 Cascade percentage= 0.0
+Payoff= 0.75 Cascade percentage= 0.0
+Payoff= 0.7 Cascade percentage= 0.0
+Payoff= 0.65 Cascade percentage= 0.0
+Payoff= 0.6 Cascade percentage= 0.0
+Payoff= 0.55 Cascade percentage= 0.0
+Payoff= 0.5 Cascade percentage= 0.0
+Payoff= 0.45 Cascade percentage= 0.0
+Payoff= 0.4 Cascade percentage= 0.0
+Payoff= 0.35 Cascade percentage= 0.0
+Payoff= 0.3 Cascade percentage= 0.0
+Payoff= 0.25 Cascade percentage= 0.0
+Payoff= 0.21 Cascade percentage= 0.0
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Payoff= 0.9 Cascade percentage= 0.0
+Payoff= 0.85 Cascade percentage= 0.0
+Payoff= 0.8 Cascade percentage= 0.0
+Payoff= 0.75 Cascade percentage= 0.0
+Payoff= 0.7 Cascade percentage= 0.0
+Payoff= 0.65 Cascade percentage= 0.0
+Payoff= 0.6 Cascade percentage= 0.0
+Payoff= 0.55 Cascade percentage= 0.0
+Payoff= 0.5 Cascade percentage= 0.0
+Payoff= 0.45 Cascade percentage= 0.0
+Payoff= 0.4 Cascade percentage= 0.0
+Payoff= 0.35 Cascade percentage= 0.0
+Payoff= 0.3 Cascade percentage= 0.0
+Payoff= 0.25 Cascade percentage= 0.0
+Payoff= 0.21 Cascade percentage= 0.0
+Payoff= 0.2 Cascade percentage= 0.0024764735017335313
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Payoff= 0.9 Cascade percentage= 0.0
+Payoff= 0.85 Cascade percentage= 0.0
+Payoff= 0.8 Cascade percentage= 0.0
+Payoff= 0.75 Cascade percentage= 0.0
+Payoff= 0.7 Cascade percentage= 0.0
+Payoff= 0.65 Cascade percentage= 0.0
+Payoff= 0.6 Cascade percentage= 0.0
+Payoff= 0.55 Cascade percentage= 0.0
+Payoff= 0.5 Cascade percentage= 0.0
+Payoff= 0.45 Cascade percentage= 0.0
+Payoff= 0.4 Cascade percentage= 0.0
+Payoff= 0.35 Cascade percentage= 0.0
+Payoff= 0.3 Cascade percentage= 0.0
+Payoff= 0.25 Cascade percentage= 0.0
+Payoff= 0.21 Cascade percentage= 0.0
+Payoff= 0.2 Cascade percentage= 0.0024764735017335313
+Payoff= 0.19 Cascade percentage= 0.0024764735017335313
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Payoff= 0.9 Cascade percentage= 0.0
+Payoff= 0.85 Cascade percentage= 0.0
+Payoff= 0.8 Cascade percentage= 0.0
+Payoff= 0.75 Cascade percentage= 0.0
+Payoff= 0.7 Cascade percentage= 0.0
+Payoff= 0.65 Cascade percentage= 0.0
+Payoff= 0.6 Cascade percentage= 0.0
+Payoff= 0.55 Cascade percentage= 0.0
+Payoff= 0.5 Cascade percentage= 0.0
+Payoff= 0.45 Cascade percentage= 0.0
+Payoff= 0.4 Cascade percentage= 0.0
+Payoff= 0.35 Cascade percentage= 0.0
+Payoff= 0.3 Cascade percentage= 0.0
+Payoff= 0.25 Cascade percentage= 0.0
+Payoff= 0.21 Cascade percentage= 0.0
+Payoff= 0.2 Cascade percentage= 0.0024764735017335313
+Payoff= 0.19 Cascade percentage= 0.0024764735017335313
+Payoff= 0.18 Cascade percentage= 0.0024764735017335313
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Payoff= 0.9 Cascade percentage= 0.0
+Payoff= 0.85 Cascade percentage= 0.0
+Payoff= 0.8 Cascade percentage= 0.0
+Payoff= 0.75 Cascade percentage= 0.0
+Payoff= 0.7 Cascade percentage= 0.0
+Payoff= 0.65 Cascade percentage= 0.0
+Payoff= 0.6 Cascade percentage= 0.0
+Payoff= 0.55 Cascade percentage= 0.0
+Payoff= 0.5 Cascade percentage= 0.0
+Payoff= 0.45 Cascade percentage= 0.0
+Payoff= 0.4 Cascade percentage= 0.0
+Payoff= 0.35 Cascade percentage= 0.0
+Payoff= 0.3 Cascade percentage= 0.0
+Payoff= 0.25 Cascade percentage= 0.0
+Payoff= 0.21 Cascade percentage= 0.0
+Payoff= 0.2 Cascade percentage= 0.0024764735017335313
+Payoff= 0.19 Cascade percentage= 0.0024764735017335313
+Payoff= 0.18 Cascade percentage= 0.0024764735017335313
+Payoff= 0.17 Cascade percentage= 0.0024764735017335313
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Payoff= 0.9 Cascade percentage= 0.0
+Payoff= 0.85 Cascade percentage= 0.0
+Payoff= 0.8 Cascade percentage= 0.0
+Payoff= 0.75 Cascade percentage= 0.0
+Payoff= 0.7 Cascade percentage= 0.0
+Payoff= 0.65 Cascade percentage= 0.0
+Payoff= 0.6 Cascade percentage= 0.0
+Payoff= 0.55 Cascade percentage= 0.0
+Payoff= 0.5 Cascade percentage= 0.0
+Payoff= 0.45 Cascade percentage= 0.0
+Payoff= 0.4 Cascade percentage= 0.0
+Payoff= 0.35 Cascade percentage= 0.0
+Payoff= 0.3 Cascade percentage= 0.0
+Payoff= 0.25 Cascade percentage= 0.0
+Payoff= 0.21 Cascade percentage= 0.0
+Payoff= 0.2 Cascade percentage= 0.0024764735017335313
+Payoff= 0.19 Cascade percentage= 0.0024764735017335313
+Payoff= 0.18 Cascade percentage= 0.0024764735017335313
+Payoff= 0.17 Cascade percentage= 0.0024764735017335313
+Payoff= 0.16 Cascade percentage= 0.0024764735017335313
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Payoff= 0.9 Cascade percentage= 0.0
+Payoff= 0.85 Cascade percentage= 0.0
+Payoff= 0.8 Cascade percentage= 0.0
+Payoff= 0.75 Cascade percentage= 0.0
+Payoff= 0.7 Cascade percentage= 0.0
+Payoff= 0.65 Cascade percentage= 0.0
+Payoff= 0.6 Cascade percentage= 0.0
+Payoff= 0.55 Cascade percentage= 0.0
+Payoff= 0.5 Cascade percentage= 0.0
+Payoff= 0.45 Cascade percentage= 0.0
+Payoff= 0.4 Cascade percentage= 0.0
+Payoff= 0.35 Cascade percentage= 0.0
+Payoff= 0.3 Cascade percentage= 0.0
+Payoff= 0.25 Cascade percentage= 0.0
+Payoff= 0.21 Cascade percentage= 0.0
+Payoff= 0.2 Cascade percentage= 0.0024764735017335313
+Payoff= 0.19 Cascade percentage= 0.0024764735017335313
+Payoff= 0.18 Cascade percentage= 0.0024764735017335313
+Payoff= 0.17 Cascade percentage= 0.0024764735017335313
+Payoff= 0.16 Cascade percentage= 0.0024764735017335313
+Payoff= 0.15 Cascade percentage= 0.004952947003467063
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Payoff= 0.9 Cascade percentage= 0.0
+Payoff= 0.85 Cascade percentage= 0.0
+Payoff= 0.8 Cascade percentage= 0.0
+Payoff= 0.75 Cascade percentage= 0.0
+Payoff= 0.7 Cascade percentage= 0.0
+Payoff= 0.65 Cascade percentage= 0.0
+Payoff= 0.6 Cascade percentage= 0.0
+Payoff= 0.55 Cascade percentage= 0.0
+Payoff= 0.5 Cascade percentage= 0.0
+Payoff= 0.45 Cascade percentage= 0.0
+Payoff= 0.4 Cascade percentage= 0.0
+Payoff= 0.35 Cascade percentage= 0.0
+Payoff= 0.3 Cascade percentage= 0.0
+Payoff= 0.25 Cascade percentage= 0.0
+Payoff= 0.21 Cascade percentage= 0.0
+Payoff= 0.2 Cascade percentage= 0.0024764735017335313
+Payoff= 0.19 Cascade percentage= 0.0024764735017335313
+Payoff= 0.18 Cascade percentage= 0.0024764735017335313
+Payoff= 0.17 Cascade percentage= 0.0024764735017335313
+Payoff= 0.16 Cascade percentage= 0.0024764735017335313
+Payoff= 0.15 Cascade percentage= 0.004952947003467063
+Payoff= 0.14 Cascade percentage= 0.004952947003467063
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Payoff= 0.9 Cascade percentage= 0.0
+Payoff= 0.85 Cascade percentage= 0.0
+Payoff= 0.8 Cascade percentage= 0.0
+Payoff= 0.75 Cascade percentage= 0.0
+Payoff= 0.7 Cascade percentage= 0.0
+Payoff= 0.65 Cascade percentage= 0.0
+Payoff= 0.6 Cascade percentage= 0.0
+Payoff= 0.55 Cascade percentage= 0.0
+Payoff= 0.5 Cascade percentage= 0.0
+Payoff= 0.45 Cascade percentage= 0.0
+Payoff= 0.4 Cascade percentage= 0.0
+Payoff= 0.35 Cascade percentage= 0.0
+Payoff= 0.3 Cascade percentage= 0.0
+Payoff= 0.25 Cascade percentage= 0.0
+Payoff= 0.21 Cascade percentage= 0.0
+Payoff= 0.2 Cascade percentage= 0.0024764735017335313
+Payoff= 0.19 Cascade percentage= 0.0024764735017335313
+Payoff= 0.18 Cascade percentage= 0.0024764735017335313
+Payoff= 0.17 Cascade percentage= 0.0024764735017335313
+Payoff= 0.16 Cascade percentage= 0.0024764735017335313
+Payoff= 0.15 Cascade percentage= 0.004952947003467063
+Payoff= 0.14 Cascade percentage= 0.004952947003467063
+Payoff= 0.13 Cascade percentage= 0.004952947003467063
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Payoff= 0.9 Cascade percentage= 0.0
+Payoff= 0.85 Cascade percentage= 0.0
+Payoff= 0.8 Cascade percentage= 0.0
+Payoff= 0.75 Cascade percentage= 0.0
+Payoff= 0.7 Cascade percentage= 0.0
+Payoff= 0.65 Cascade percentage= 0.0
+Payoff= 0.6 Cascade percentage= 0.0
+Payoff= 0.55 Cascade percentage= 0.0
+Payoff= 0.5 Cascade percentage= 0.0
+Payoff= 0.45 Cascade percentage= 0.0
+Payoff= 0.4 Cascade percentage= 0.0
+Payoff= 0.35 Cascade percentage= 0.0
+Payoff= 0.3 Cascade percentage= 0.0
+Payoff= 0.25 Cascade percentage= 0.0
+Payoff= 0.21 Cascade percentage= 0.0
+Payoff= 0.2 Cascade percentage= 0.0024764735017335313
+Payoff= 0.19 Cascade percentage= 0.0024764735017335313
+Payoff= 0.18 Cascade percentage= 0.0024764735017335313
+Payoff= 0.17 Cascade percentage= 0.0024764735017335313
+Payoff= 0.16 Cascade percentage= 0.0024764735017335313
+Payoff= 0.15 Cascade percentage= 0.004952947003467063
+Payoff= 0.14 Cascade percentage= 0.004952947003467063
+Payoff= 0.13 Cascade percentage= 0.004952947003467063
+Payoff= 0.12 Cascade percentage= 0.004952947003467063
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Payoff= 0.9 Cascade percentage= 0.0
+Payoff= 0.85 Cascade percentage= 0.0
+Payoff= 0.8 Cascade percentage= 0.0
+Payoff= 0.75 Cascade percentage= 0.0
+Payoff= 0.7 Cascade percentage= 0.0
+Payoff= 0.65 Cascade percentage= 0.0
+Payoff= 0.6 Cascade percentage= 0.0
+Payoff= 0.55 Cascade percentage= 0.0
+Payoff= 0.5 Cascade percentage= 0.0
+Payoff= 0.45 Cascade percentage= 0.0
+Payoff= 0.4 Cascade percentage= 0.0
+Payoff= 0.35 Cascade percentage= 0.0
+Payoff= 0.3 Cascade percentage= 0.0
+Payoff= 0.25 Cascade percentage= 0.0
+Payoff= 0.21 Cascade percentage= 0.0
+Payoff= 0.2 Cascade percentage= 0.0024764735017335313
+Payoff= 0.19 Cascade percentage= 0.0024764735017335313
+Payoff= 0.18 Cascade percentage= 0.0024764735017335313
+Payoff= 0.17 Cascade percentage= 0.0024764735017335313
+Payoff= 0.16 Cascade percentage= 0.0024764735017335313
+Payoff= 0.15 Cascade percentage= 0.004952947003467063
+Payoff= 0.14 Cascade percentage= 0.004952947003467063
+Payoff= 0.13 Cascade percentage= 0.004952947003467063
+Payoff= 0.12 Cascade percentage= 0.004952947003467063
+Payoff= 0.11 Cascade percentage= 18.018821198613175
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Payoff= 0.9 Cascade percentage= 0.0
+Payoff= 0.85 Cascade percentage= 0.0
+Payoff= 0.8 Cascade percentage= 0.0
+Payoff= 0.75 Cascade percentage= 0.0
+Payoff= 0.7 Cascade percentage= 0.0
+Payoff= 0.65 Cascade percentage= 0.0
+Payoff= 0.6 Cascade percentage= 0.0
+Payoff= 0.55 Cascade percentage= 0.0
+Payoff= 0.5 Cascade percentage= 0.0
+Payoff= 0.45 Cascade percentage= 0.0
+Payoff= 0.4 Cascade percentage= 0.0
+Payoff= 0.35 Cascade percentage= 0.0
+Payoff= 0.3 Cascade percentage= 0.0
+Payoff= 0.25 Cascade percentage= 0.0
+Payoff= 0.21 Cascade percentage= 0.0
+Payoff= 0.2 Cascade percentage= 0.0024764735017335313
+Payoff= 0.19 Cascade percentage= 0.0024764735017335313
+Payoff= 0.18 Cascade percentage= 0.0024764735017335313
+Payoff= 0.17 Cascade percentage= 0.0024764735017335313
+Payoff= 0.16 Cascade percentage= 0.0024764735017335313
+Payoff= 0.15 Cascade percentage= 0.004952947003467063
+Payoff= 0.14 Cascade percentage= 0.004952947003467063
+Payoff= 0.13 Cascade percentage= 0.004952947003467063
+Payoff= 0.12 Cascade percentage= 0.004952947003467063
+Payoff= 0.11 Cascade percentage= 18.018821198613175
+Payoff= 0.1 Cascade percentage= 26.29519564140664
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Payoff= 0.9 Cascade percentage= 0.0
+Payoff= 0.85 Cascade percentage= 0.0
+Payoff= 0.8 Cascade percentage= 0.0
+Payoff= 0.75 Cascade percentage= 0.0
+Payoff= 0.7 Cascade percentage= 0.0
+Payoff= 0.65 Cascade percentage= 0.0
+Payoff= 0.6 Cascade percentage= 0.0
+Payoff= 0.55 Cascade percentage= 0.0
+Payoff= 0.5 Cascade percentage= 0.0
+Payoff= 0.45 Cascade percentage= 0.0
+Payoff= 0.4 Cascade percentage= 0.0
+Payoff= 0.35 Cascade percentage= 0.0
+Payoff= 0.3 Cascade percentage= 0.0
+Payoff= 0.25 Cascade percentage= 0.0
+Payoff= 0.21 Cascade percentage= 0.0
+Payoff= 0.2 Cascade percentage= 0.0024764735017335313
+Payoff= 0.19 Cascade percentage= 0.0024764735017335313
+Payoff= 0.18 Cascade percentage= 0.0024764735017335313
+Payoff= 0.17 Cascade percentage= 0.0024764735017335313
+Payoff= 0.16 Cascade percentage= 0.0024764735017335313
+Payoff= 0.15 Cascade percentage= 0.004952947003467063
+Payoff= 0.14 Cascade percentage= 0.004952947003467063
+Payoff= 0.13 Cascade percentage= 0.004952947003467063
+Payoff= 0.12 Cascade percentage= 0.004952947003467063
+Payoff= 0.11 Cascade percentage= 18.018821198613175
+Payoff= 0.1 Cascade percentage= 26.29519564140664
+Payoff= 0.09 Cascade percentage= 26.29519564140664
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Payoff= 0.9 Cascade percentage= 0.0
+Payoff= 0.85 Cascade percentage= 0.0
+Payoff= 0.8 Cascade percentage= 0.0
+Payoff= 0.75 Cascade percentage= 0.0
+Payoff= 0.7 Cascade percentage= 0.0
+Payoff= 0.65 Cascade percentage= 0.0
+Payoff= 0.6 Cascade percentage= 0.0
+Payoff= 0.55 Cascade percentage= 0.0
+Payoff= 0.5 Cascade percentage= 0.0
+Payoff= 0.45 Cascade percentage= 0.0
+Payoff= 0.4 Cascade percentage= 0.0
+Payoff= 0.35 Cascade percentage= 0.0
+Payoff= 0.3 Cascade percentage= 0.0
+Payoff= 0.25 Cascade percentage= 0.0
+Payoff= 0.21 Cascade percentage= 0.0
+Payoff= 0.2 Cascade percentage= 0.0024764735017335313
+Payoff= 0.19 Cascade percentage= 0.0024764735017335313
+Payoff= 0.18 Cascade percentage= 0.0024764735017335313
+Payoff= 0.17 Cascade percentage= 0.0024764735017335313
+Payoff= 0.16 Cascade percentage= 0.0024764735017335313
+Payoff= 0.15 Cascade percentage= 0.004952947003467063
+Payoff= 0.14 Cascade percentage= 0.004952947003467063
+Payoff= 0.13 Cascade percentage= 0.004952947003467063
+Payoff= 0.12 Cascade percentage= 0.004952947003467063
+Payoff= 0.11 Cascade percentage= 18.018821198613175
+Payoff= 0.1 Cascade percentage= 26.29519564140664
+Payoff= 0.09 Cascade percentage= 26.29519564140664
+Payoff= 0.08 Cascade percentage= 42.580485388806345
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Payoff= 0.9 Cascade percentage= 0.0
+Payoff= 0.85 Cascade percentage= 0.0
+Payoff= 0.8 Cascade percentage= 0.0
+Payoff= 0.75 Cascade percentage= 0.0
+Payoff= 0.7 Cascade percentage= 0.0
+Payoff= 0.65 Cascade percentage= 0.0
+Payoff= 0.6 Cascade percentage= 0.0
+Payoff= 0.55 Cascade percentage= 0.0
+Payoff= 0.5 Cascade percentage= 0.0
+Payoff= 0.45 Cascade percentage= 0.0
+Payoff= 0.4 Cascade percentage= 0.0
+Payoff= 0.35 Cascade percentage= 0.0
+Payoff= 0.3 Cascade percentage= 0.0
+Payoff= 0.25 Cascade percentage= 0.0
+Payoff= 0.21 Cascade percentage= 0.0
+Payoff= 0.2 Cascade percentage= 0.0024764735017335313
+Payoff= 0.19 Cascade percentage= 0.0024764735017335313
+Payoff= 0.18 Cascade percentage= 0.0024764735017335313
+Payoff= 0.17 Cascade percentage= 0.0024764735017335313
+Payoff= 0.16 Cascade percentage= 0.0024764735017335313
+Payoff= 0.15 Cascade percentage= 0.004952947003467063
+Payoff= 0.14 Cascade percentage= 0.004952947003467063
+Payoff= 0.13 Cascade percentage= 0.004952947003467063
+Payoff= 0.12 Cascade percentage= 0.004952947003467063
+Payoff= 0.11 Cascade percentage= 18.018821198613175
+Payoff= 0.1 Cascade percentage= 26.29519564140664
+Payoff= 0.09 Cascade percentage= 26.29519564140664
+Payoff= 0.08 Cascade percentage= 42.580485388806345
+Payoff= 0.07 Cascade percentage= 70.0
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Payoff= 0.9 Cascade percentage= 0.0
+Payoff= 0.85 Cascade percentage= 0.0
+Payoff= 0.8 Cascade percentage= 0.0
+Payoff= 0.75 Cascade percentage= 0.0
+Payoff= 0.7 Cascade percentage= 0.0
+Payoff= 0.65 Cascade percentage= 0.0
+Payoff= 0.6 Cascade percentage= 0.0
+Payoff= 0.55 Cascade percentage= 0.0
+Payoff= 0.5 Cascade percentage= 0.0
+Payoff= 0.45 Cascade percentage= 0.0
+Payoff= 0.4 Cascade percentage= 0.0
+Payoff= 0.35 Cascade percentage= 0.0
+Payoff= 0.3 Cascade percentage= 0.0
+Payoff= 0.25 Cascade percentage= 0.0
+Payoff= 0.21 Cascade percentage= 0.0
+Payoff= 0.2 Cascade percentage= 0.0024764735017335313
+Payoff= 0.19 Cascade percentage= 0.0024764735017335313
+Payoff= 0.18 Cascade percentage= 0.0024764735017335313
+Payoff= 0.17 Cascade percentage= 0.0024764735017335313
+Payoff= 0.16 Cascade percentage= 0.0024764735017335313
+Payoff= 0.15 Cascade percentage= 0.004952947003467063
+Payoff= 0.14 Cascade percentage= 0.004952947003467063
+Payoff= 0.13 Cascade percentage= 0.004952947003467063
+Payoff= 0.12 Cascade percentage= 0.004952947003467063
+Payoff= 0.11 Cascade percentage= 18.018821198613175
+Payoff= 0.1 Cascade percentage= 26.29519564140664
+Payoff= 0.09 Cascade percentage= 26.29519564140664
+Payoff= 0.08 Cascade percentage= 42.580485388806345
+Payoff= 0.07 Cascade percentage= 70.0
+Payoff= 0.06 Cascade percentage= 70.0
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 1
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= 0.0
+Payoff= 0.9 Cascade percentage= 0.0
+Payoff= 0.85 Cascade percentage= 0.0
+Payoff= 0.8 Cascade percentage= 0.0
+Payoff= 0.75 Cascade percentage= 0.0
+Payoff= 0.7 Cascade percentage= 0.0
+Payoff= 0.65 Cascade percentage= 0.0
+Payoff= 0.6 Cascade percentage= 0.0
+Payoff= 0.55 Cascade percentage= 0.0
+Payoff= 0.5 Cascade percentage= 0.0
+Payoff= 0.45 Cascade percentage= 0.0
+Payoff= 0.4 Cascade percentage= 0.0
+Payoff= 0.35 Cascade percentage= 0.0
+Payoff= 0.3 Cascade percentage= 0.0
+Payoff= 0.25 Cascade percentage= 0.0
+Payoff= 0.21 Cascade percentage= 0.0
+Payoff= 0.2 Cascade percentage= 0.0024764735017335313
+Payoff= 0.19 Cascade percentage= 0.0024764735017335313
+Payoff= 0.18 Cascade percentage= 0.0024764735017335313
+Payoff= 0.17 Cascade percentage= 0.0024764735017335313
+Payoff= 0.16 Cascade percentage= 0.0024764735017335313
+Payoff= 0.15 Cascade percentage= 0.004952947003467063
+Payoff= 0.14 Cascade percentage= 0.004952947003467063
+Payoff= 0.13 Cascade percentage= 0.004952947003467063
+Payoff= 0.12 Cascade percentage= 0.004952947003467063
+Payoff= 0.11 Cascade percentage= 18.018821198613175
+Payoff= 0.1 Cascade percentage= 26.29519564140664
+Payoff= 0.09 Cascade percentage= 26.29519564140664
+Payoff= 0.08 Cascade percentage= 42.580485388806345
+Payoff= 0.07 Cascade percentage= 70.0
+Payoff= 0.06 Cascade percentage= 70.0
+Payoff= 0.05 Cascade percentage= 90.0
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 50
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.010027575833542243
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 50
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.010027575833542243
+Payoff= 0.9 Cascade percentage= -0.010027575833542243
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 50
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.010027575833542243
+Payoff= 0.9 Cascade percentage= -0.010027575833542243
+Payoff= 0.85 Cascade percentage= -0.010027575833542243
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 50
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.010027575833542243
+Payoff= 0.9 Cascade percentage= -0.010027575833542243
+Payoff= 0.85 Cascade percentage= -0.010027575833542243
+Payoff= 0.8 Cascade percentage= -0.010027575833542243
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 50
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.010027575833542243
+Payoff= 0.9 Cascade percentage= -0.010027575833542243
+Payoff= 0.85 Cascade percentage= -0.010027575833542243
+Payoff= 0.8 Cascade percentage= -0.010027575833542243
+Payoff= 0.75 Cascade percentage= -0.010027575833542243
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 50
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.010027575833542243
+Payoff= 0.9 Cascade percentage= -0.010027575833542243
+Payoff= 0.85 Cascade percentage= -0.010027575833542243
+Payoff= 0.8 Cascade percentage= -0.010027575833542243
+Payoff= 0.75 Cascade percentage= -0.010027575833542243
+Payoff= 0.7 Cascade percentage= -0.010027575833542243
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 50
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.010027575833542243
+Payoff= 0.9 Cascade percentage= -0.010027575833542243
+Payoff= 0.85 Cascade percentage= -0.010027575833542243
+Payoff= 0.8 Cascade percentage= -0.010027575833542243
+Payoff= 0.75 Cascade percentage= -0.010027575833542243
+Payoff= 0.7 Cascade percentage= -0.010027575833542243
+Payoff= 0.65 Cascade percentage= -0.007520681875156682
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 50
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.010027575833542243
+Payoff= 0.9 Cascade percentage= -0.010027575833542243
+Payoff= 0.85 Cascade percentage= -0.010027575833542243
+Payoff= 0.8 Cascade percentage= -0.010027575833542243
+Payoff= 0.75 Cascade percentage= -0.010027575833542243
+Payoff= 0.7 Cascade percentage= -0.010027575833542243
+Payoff= 0.65 Cascade percentage= -0.007520681875156682
+Payoff= 0.6 Cascade percentage= -0.007520681875156682
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 50
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.010027575833542243
+Payoff= 0.9 Cascade percentage= -0.010027575833542243
+Payoff= 0.85 Cascade percentage= -0.010027575833542243
+Payoff= 0.8 Cascade percentage= -0.010027575833542243
+Payoff= 0.75 Cascade percentage= -0.010027575833542243
+Payoff= 0.7 Cascade percentage= -0.010027575833542243
+Payoff= 0.65 Cascade percentage= -0.007520681875156682
+Payoff= 0.6 Cascade percentage= -0.007520681875156682
+Payoff= 0.55 Cascade percentage= -0.007520681875156682
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 50
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.010027575833542243
+Payoff= 0.9 Cascade percentage= -0.010027575833542243
+Payoff= 0.85 Cascade percentage= -0.010027575833542243
+Payoff= 0.8 Cascade percentage= -0.010027575833542243
+Payoff= 0.75 Cascade percentage= -0.010027575833542243
+Payoff= 0.7 Cascade percentage= -0.010027575833542243
+Payoff= 0.65 Cascade percentage= -0.007520681875156682
+Payoff= 0.6 Cascade percentage= -0.007520681875156682
+Payoff= 0.55 Cascade percentage= -0.007520681875156682
+Payoff= 0.5 Cascade percentage= 0.062672348959639
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 50
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.010027575833542243
+Payoff= 0.9 Cascade percentage= -0.010027575833542243
+Payoff= 0.85 Cascade percentage= -0.010027575833542243
+Payoff= 0.8 Cascade percentage= -0.010027575833542243
+Payoff= 0.75 Cascade percentage= -0.010027575833542243
+Payoff= 0.7 Cascade percentage= -0.010027575833542243
+Payoff= 0.65 Cascade percentage= -0.007520681875156682
+Payoff= 0.6 Cascade percentage= -0.007520681875156682
+Payoff= 0.55 Cascade percentage= -0.007520681875156682
+Payoff= 0.5 Cascade percentage= 0.062672348959639
+Payoff= 0.45 Cascade percentage= 0.062672348959639
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 50
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.010027575833542243
+Payoff= 0.9 Cascade percentage= -0.010027575833542243
+Payoff= 0.85 Cascade percentage= -0.010027575833542243
+Payoff= 0.8 Cascade percentage= -0.010027575833542243
+Payoff= 0.75 Cascade percentage= -0.010027575833542243
+Payoff= 0.7 Cascade percentage= -0.010027575833542243
+Payoff= 0.65 Cascade percentage= -0.007520681875156682
+Payoff= 0.6 Cascade percentage= -0.007520681875156682
+Payoff= 0.55 Cascade percentage= -0.007520681875156682
+Payoff= 0.5 Cascade percentage= 0.062672348959639
+Payoff= 0.45 Cascade percentage= 0.062672348959639
+Payoff= 0.4 Cascade percentage= 0.06517924291802457
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 50
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.010027575833542243
+Payoff= 0.9 Cascade percentage= -0.010027575833542243
+Payoff= 0.85 Cascade percentage= -0.010027575833542243
+Payoff= 0.8 Cascade percentage= -0.010027575833542243
+Payoff= 0.75 Cascade percentage= -0.010027575833542243
+Payoff= 0.7 Cascade percentage= -0.010027575833542243
+Payoff= 0.65 Cascade percentage= -0.007520681875156682
+Payoff= 0.6 Cascade percentage= -0.007520681875156682
+Payoff= 0.55 Cascade percentage= -0.007520681875156682
+Payoff= 0.5 Cascade percentage= 0.062672348959639
+Payoff= 0.45 Cascade percentage= 0.062672348959639
+Payoff= 0.4 Cascade percentage= 0.06517924291802457
+Payoff= 0.35 Cascade percentage= 0.06517924291802457
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 50
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.010027575833542243
+Payoff= 0.9 Cascade percentage= -0.010027575833542243
+Payoff= 0.85 Cascade percentage= -0.010027575833542243
+Payoff= 0.8 Cascade percentage= -0.010027575833542243
+Payoff= 0.75 Cascade percentage= -0.010027575833542243
+Payoff= 0.7 Cascade percentage= -0.010027575833542243
+Payoff= 0.65 Cascade percentage= -0.007520681875156682
+Payoff= 0.6 Cascade percentage= -0.007520681875156682
+Payoff= 0.55 Cascade percentage= -0.007520681875156682
+Payoff= 0.5 Cascade percentage= 0.062672348959639
+Payoff= 0.45 Cascade percentage= 0.062672348959639
+Payoff= 0.4 Cascade percentage= 0.06517924291802457
+Payoff= 0.35 Cascade percentage= 0.06517924291802457
+Payoff= 0.3 Cascade percentage= 0.1704687891702181
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 50
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.010027575833542243
+Payoff= 0.9 Cascade percentage= -0.010027575833542243
+Payoff= 0.85 Cascade percentage= -0.010027575833542243
+Payoff= 0.8 Cascade percentage= -0.010027575833542243
+Payoff= 0.75 Cascade percentage= -0.010027575833542243
+Payoff= 0.7 Cascade percentage= -0.010027575833542243
+Payoff= 0.65 Cascade percentage= -0.007520681875156682
+Payoff= 0.6 Cascade percentage= -0.007520681875156682
+Payoff= 0.55 Cascade percentage= -0.007520681875156682
+Payoff= 0.5 Cascade percentage= 0.062672348959639
+Payoff= 0.45 Cascade percentage= 0.062672348959639
+Payoff= 0.4 Cascade percentage= 0.06517924291802457
+Payoff= 0.35 Cascade percentage= 0.06517924291802457
+Payoff= 0.3 Cascade percentage= 0.1704687891702181
+Payoff= 0.25 Cascade percentage= 0.899974931060416
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 50
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.010027575833542243
+Payoff= 0.9 Cascade percentage= -0.010027575833542243
+Payoff= 0.85 Cascade percentage= -0.010027575833542243
+Payoff= 0.8 Cascade percentage= -0.010027575833542243
+Payoff= 0.75 Cascade percentage= -0.010027575833542243
+Payoff= 0.7 Cascade percentage= -0.010027575833542243
+Payoff= 0.65 Cascade percentage= -0.007520681875156682
+Payoff= 0.6 Cascade percentage= -0.007520681875156682
+Payoff= 0.55 Cascade percentage= -0.007520681875156682
+Payoff= 0.5 Cascade percentage= 0.062672348959639
+Payoff= 0.45 Cascade percentage= 0.062672348959639
+Payoff= 0.4 Cascade percentage= 0.06517924291802457
+Payoff= 0.35 Cascade percentage= 0.06517924291802457
+Payoff= 0.3 Cascade percentage= 0.1704687891702181
+Payoff= 0.25 Cascade percentage= 0.899974931060416
+Payoff= 0.21 Cascade percentage= 0.9100025068939583
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 50
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.010027575833542243
+Payoff= 0.9 Cascade percentage= -0.010027575833542243
+Payoff= 0.85 Cascade percentage= -0.010027575833542243
+Payoff= 0.8 Cascade percentage= -0.010027575833542243
+Payoff= 0.75 Cascade percentage= -0.010027575833542243
+Payoff= 0.7 Cascade percentage= -0.010027575833542243
+Payoff= 0.65 Cascade percentage= -0.007520681875156682
+Payoff= 0.6 Cascade percentage= -0.007520681875156682
+Payoff= 0.55 Cascade percentage= -0.007520681875156682
+Payoff= 0.5 Cascade percentage= 0.062672348959639
+Payoff= 0.45 Cascade percentage= 0.062672348959639
+Payoff= 0.4 Cascade percentage= 0.06517924291802457
+Payoff= 0.35 Cascade percentage= 0.06517924291802457
+Payoff= 0.3 Cascade percentage= 0.1704687891702181
+Payoff= 0.25 Cascade percentage= 0.899974931060416
+Payoff= 0.21 Cascade percentage= 0.9100025068939583
+Payoff= 0.2 Cascade percentage= 1.8851842567059414
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 50
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.010027575833542243
+Payoff= 0.9 Cascade percentage= -0.010027575833542243
+Payoff= 0.85 Cascade percentage= -0.010027575833542243
+Payoff= 0.8 Cascade percentage= -0.010027575833542243
+Payoff= 0.75 Cascade percentage= -0.010027575833542243
+Payoff= 0.7 Cascade percentage= -0.010027575833542243
+Payoff= 0.65 Cascade percentage= -0.007520681875156682
+Payoff= 0.6 Cascade percentage= -0.007520681875156682
+Payoff= 0.55 Cascade percentage= -0.007520681875156682
+Payoff= 0.5 Cascade percentage= 0.062672348959639
+Payoff= 0.45 Cascade percentage= 0.062672348959639
+Payoff= 0.4 Cascade percentage= 0.06517924291802457
+Payoff= 0.35 Cascade percentage= 0.06517924291802457
+Payoff= 0.3 Cascade percentage= 0.1704687891702181
+Payoff= 0.25 Cascade percentage= 0.899974931060416
+Payoff= 0.21 Cascade percentage= 0.9100025068939583
+Payoff= 0.2 Cascade percentage= 1.8851842567059414
+Payoff= 0.19 Cascade percentage= 1.8977187264978688
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 50
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.010027575833542243
+Payoff= 0.9 Cascade percentage= -0.010027575833542243
+Payoff= 0.85 Cascade percentage= -0.010027575833542243
+Payoff= 0.8 Cascade percentage= -0.010027575833542243
+Payoff= 0.75 Cascade percentage= -0.010027575833542243
+Payoff= 0.7 Cascade percentage= -0.010027575833542243
+Payoff= 0.65 Cascade percentage= -0.007520681875156682
+Payoff= 0.6 Cascade percentage= -0.007520681875156682
+Payoff= 0.55 Cascade percentage= -0.007520681875156682
+Payoff= 0.5 Cascade percentage= 0.062672348959639
+Payoff= 0.45 Cascade percentage= 0.062672348959639
+Payoff= 0.4 Cascade percentage= 0.06517924291802457
+Payoff= 0.35 Cascade percentage= 0.06517924291802457
+Payoff= 0.3 Cascade percentage= 0.1704687891702181
+Payoff= 0.25 Cascade percentage= 0.899974931060416
+Payoff= 0.21 Cascade percentage= 0.9100025068939583
+Payoff= 0.2 Cascade percentage= 1.8851842567059414
+Payoff= 0.19 Cascade percentage= 1.8977187264978688
+Payoff= 0.18 Cascade percentage= 2.8754073702682375
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 50
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.010027575833542243
+Payoff= 0.9 Cascade percentage= -0.010027575833542243
+Payoff= 0.85 Cascade percentage= -0.010027575833542243
+Payoff= 0.8 Cascade percentage= -0.010027575833542243
+Payoff= 0.75 Cascade percentage= -0.010027575833542243
+Payoff= 0.7 Cascade percentage= -0.010027575833542243
+Payoff= 0.65 Cascade percentage= -0.007520681875156682
+Payoff= 0.6 Cascade percentage= -0.007520681875156682
+Payoff= 0.55 Cascade percentage= -0.007520681875156682
+Payoff= 0.5 Cascade percentage= 0.062672348959639
+Payoff= 0.45 Cascade percentage= 0.062672348959639
+Payoff= 0.4 Cascade percentage= 0.06517924291802457
+Payoff= 0.35 Cascade percentage= 0.06517924291802457
+Payoff= 0.3 Cascade percentage= 0.1704687891702181
+Payoff= 0.25 Cascade percentage= 0.899974931060416
+Payoff= 0.21 Cascade percentage= 0.9100025068939583
+Payoff= 0.2 Cascade percentage= 1.8851842567059414
+Payoff= 0.19 Cascade percentage= 1.8977187264978688
+Payoff= 0.18 Cascade percentage= 2.8754073702682375
+Payoff= 0.17 Cascade percentage= 2.988217598395588
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 50
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.010027575833542243
+Payoff= 0.9 Cascade percentage= -0.010027575833542243
+Payoff= 0.85 Cascade percentage= -0.010027575833542243
+Payoff= 0.8 Cascade percentage= -0.010027575833542243
+Payoff= 0.75 Cascade percentage= -0.010027575833542243
+Payoff= 0.7 Cascade percentage= -0.010027575833542243
+Payoff= 0.65 Cascade percentage= -0.007520681875156682
+Payoff= 0.6 Cascade percentage= -0.007520681875156682
+Payoff= 0.55 Cascade percentage= -0.007520681875156682
+Payoff= 0.5 Cascade percentage= 0.062672348959639
+Payoff= 0.45 Cascade percentage= 0.062672348959639
+Payoff= 0.4 Cascade percentage= 0.06517924291802457
+Payoff= 0.35 Cascade percentage= 0.06517924291802457
+Payoff= 0.3 Cascade percentage= 0.1704687891702181
+Payoff= 0.25 Cascade percentage= 0.899974931060416
+Payoff= 0.21 Cascade percentage= 0.9100025068939583
+Payoff= 0.2 Cascade percentage= 1.8851842567059414
+Payoff= 0.19 Cascade percentage= 1.8977187264978688
+Payoff= 0.18 Cascade percentage= 2.8754073702682375
+Payoff= 0.17 Cascade percentage= 2.988217598395588
+Payoff= 0.16 Cascade percentage= 33.73276510403609
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 50
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.010027575833542243
+Payoff= 0.9 Cascade percentage= -0.010027575833542243
+Payoff= 0.85 Cascade percentage= -0.010027575833542243
+Payoff= 0.8 Cascade percentage= -0.010027575833542243
+Payoff= 0.75 Cascade percentage= -0.010027575833542243
+Payoff= 0.7 Cascade percentage= -0.010027575833542243
+Payoff= 0.65 Cascade percentage= -0.007520681875156682
+Payoff= 0.6 Cascade percentage= -0.007520681875156682
+Payoff= 0.55 Cascade percentage= -0.007520681875156682
+Payoff= 0.5 Cascade percentage= 0.062672348959639
+Payoff= 0.45 Cascade percentage= 0.062672348959639
+Payoff= 0.4 Cascade percentage= 0.06517924291802457
+Payoff= 0.35 Cascade percentage= 0.06517924291802457
+Payoff= 0.3 Cascade percentage= 0.1704687891702181
+Payoff= 0.25 Cascade percentage= 0.899974931060416
+Payoff= 0.21 Cascade percentage= 0.9100025068939583
+Payoff= 0.2 Cascade percentage= 1.8851842567059414
+Payoff= 0.19 Cascade percentage= 1.8977187264978688
+Payoff= 0.18 Cascade percentage= 2.8754073702682375
+Payoff= 0.17 Cascade percentage= 2.988217598395588
+Payoff= 0.16 Cascade percentage= 33.73276510403609
+Payoff= 0.15 Cascade percentage= 49.69165204311858
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 50
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.010027575833542243
+Payoff= 0.9 Cascade percentage= -0.010027575833542243
+Payoff= 0.85 Cascade percentage= -0.010027575833542243
+Payoff= 0.8 Cascade percentage= -0.010027575833542243
+Payoff= 0.75 Cascade percentage= -0.010027575833542243
+Payoff= 0.7 Cascade percentage= -0.010027575833542243
+Payoff= 0.65 Cascade percentage= -0.007520681875156682
+Payoff= 0.6 Cascade percentage= -0.007520681875156682
+Payoff= 0.55 Cascade percentage= -0.007520681875156682
+Payoff= 0.5 Cascade percentage= 0.062672348959639
+Payoff= 0.45 Cascade percentage= 0.062672348959639
+Payoff= 0.4 Cascade percentage= 0.06517924291802457
+Payoff= 0.35 Cascade percentage= 0.06517924291802457
+Payoff= 0.3 Cascade percentage= 0.1704687891702181
+Payoff= 0.25 Cascade percentage= 0.899974931060416
+Payoff= 0.21 Cascade percentage= 0.9100025068939583
+Payoff= 0.2 Cascade percentage= 1.8851842567059414
+Payoff= 0.19 Cascade percentage= 1.8977187264978688
+Payoff= 0.18 Cascade percentage= 2.8754073702682375
+Payoff= 0.17 Cascade percentage= 2.988217598395588
+Payoff= 0.16 Cascade percentage= 33.73276510403609
+Payoff= 0.15 Cascade percentage= 49.69165204311858
+Payoff= 0.14 Cascade percentage= 88.51591877663576
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 50
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.010027575833542243
+Payoff= 0.9 Cascade percentage= -0.010027575833542243
+Payoff= 0.85 Cascade percentage= -0.010027575833542243
+Payoff= 0.8 Cascade percentage= -0.010027575833542243
+Payoff= 0.75 Cascade percentage= -0.010027575833542243
+Payoff= 0.7 Cascade percentage= -0.010027575833542243
+Payoff= 0.65 Cascade percentage= -0.007520681875156682
+Payoff= 0.6 Cascade percentage= -0.007520681875156682
+Payoff= 0.55 Cascade percentage= -0.007520681875156682
+Payoff= 0.5 Cascade percentage= 0.062672348959639
+Payoff= 0.45 Cascade percentage= 0.062672348959639
+Payoff= 0.4 Cascade percentage= 0.06517924291802457
+Payoff= 0.35 Cascade percentage= 0.06517924291802457
+Payoff= 0.3 Cascade percentage= 0.1704687891702181
+Payoff= 0.25 Cascade percentage= 0.899974931060416
+Payoff= 0.21 Cascade percentage= 0.9100025068939583
+Payoff= 0.2 Cascade percentage= 1.8851842567059414
+Payoff= 0.19 Cascade percentage= 1.8977187264978688
+Payoff= 0.18 Cascade percentage= 2.8754073702682375
+Payoff= 0.17 Cascade percentage= 2.988217598395588
+Payoff= 0.16 Cascade percentage= 33.73276510403609
+Payoff= 0.15 Cascade percentage= 49.69165204311858
+Payoff= 0.14 Cascade percentage= 88.51591877663576
+Payoff= 0.13 Cascade percentage= 88.6487841564302
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 50
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.010027575833542243
+Payoff= 0.9 Cascade percentage= -0.010027575833542243
+Payoff= 0.85 Cascade percentage= -0.010027575833542243
+Payoff= 0.8 Cascade percentage= -0.010027575833542243
+Payoff= 0.75 Cascade percentage= -0.010027575833542243
+Payoff= 0.7 Cascade percentage= -0.010027575833542243
+Payoff= 0.65 Cascade percentage= -0.007520681875156682
+Payoff= 0.6 Cascade percentage= -0.007520681875156682
+Payoff= 0.55 Cascade percentage= -0.007520681875156682
+Payoff= 0.5 Cascade percentage= 0.062672348959639
+Payoff= 0.45 Cascade percentage= 0.062672348959639
+Payoff= 0.4 Cascade percentage= 0.06517924291802457
+Payoff= 0.35 Cascade percentage= 0.06517924291802457
+Payoff= 0.3 Cascade percentage= 0.1704687891702181
+Payoff= 0.25 Cascade percentage= 0.899974931060416
+Payoff= 0.21 Cascade percentage= 0.9100025068939583
+Payoff= 0.2 Cascade percentage= 1.8851842567059414
+Payoff= 0.19 Cascade percentage= 1.8977187264978688
+Payoff= 0.18 Cascade percentage= 2.8754073702682375
+Payoff= 0.17 Cascade percentage= 2.988217598395588
+Payoff= 0.16 Cascade percentage= 33.73276510403609
+Payoff= 0.15 Cascade percentage= 49.69165204311858
+Payoff= 0.14 Cascade percentage= 88.51591877663576
+Payoff= 0.13 Cascade percentage= 88.6487841564302
+Payoff= 0.12 Cascade percentage= 90.42867886688394
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 50
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.010027575833542243
+Payoff= 0.9 Cascade percentage= -0.010027575833542243
+Payoff= 0.85 Cascade percentage= -0.010027575833542243
+Payoff= 0.8 Cascade percentage= -0.010027575833542243
+Payoff= 0.75 Cascade percentage= -0.010027575833542243
+Payoff= 0.7 Cascade percentage= -0.010027575833542243
+Payoff= 0.65 Cascade percentage= -0.007520681875156682
+Payoff= 0.6 Cascade percentage= -0.007520681875156682
+Payoff= 0.55 Cascade percentage= -0.007520681875156682
+Payoff= 0.5 Cascade percentage= 0.062672348959639
+Payoff= 0.45 Cascade percentage= 0.062672348959639
+Payoff= 0.4 Cascade percentage= 0.06517924291802457
+Payoff= 0.35 Cascade percentage= 0.06517924291802457
+Payoff= 0.3 Cascade percentage= 0.1704687891702181
+Payoff= 0.25 Cascade percentage= 0.899974931060416
+Payoff= 0.21 Cascade percentage= 0.9100025068939583
+Payoff= 0.2 Cascade percentage= 1.8851842567059414
+Payoff= 0.19 Cascade percentage= 1.8977187264978688
+Payoff= 0.18 Cascade percentage= 2.8754073702682375
+Payoff= 0.17 Cascade percentage= 2.988217598395588
+Payoff= 0.16 Cascade percentage= 33.73276510403609
+Payoff= 0.15 Cascade percentage= 49.69165204311858
+Payoff= 0.14 Cascade percentage= 88.51591877663576
+Payoff= 0.13 Cascade percentage= 88.6487841564302
+Payoff= 0.12 Cascade percentage= 90.42867886688394
+Payoff= 0.11 Cascade percentage= 95.96139383304087
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 50
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.010027575833542243
+Payoff= 0.9 Cascade percentage= -0.010027575833542243
+Payoff= 0.85 Cascade percentage= -0.010027575833542243
+Payoff= 0.8 Cascade percentage= -0.010027575833542243
+Payoff= 0.75 Cascade percentage= -0.010027575833542243
+Payoff= 0.7 Cascade percentage= -0.010027575833542243
+Payoff= 0.65 Cascade percentage= -0.007520681875156682
+Payoff= 0.6 Cascade percentage= -0.007520681875156682
+Payoff= 0.55 Cascade percentage= -0.007520681875156682
+Payoff= 0.5 Cascade percentage= 0.062672348959639
+Payoff= 0.45 Cascade percentage= 0.062672348959639
+Payoff= 0.4 Cascade percentage= 0.06517924291802457
+Payoff= 0.35 Cascade percentage= 0.06517924291802457
+Payoff= 0.3 Cascade percentage= 0.1704687891702181
+Payoff= 0.25 Cascade percentage= 0.899974931060416
+Payoff= 0.21 Cascade percentage= 0.9100025068939583
+Payoff= 0.2 Cascade percentage= 1.8851842567059414
+Payoff= 0.19 Cascade percentage= 1.8977187264978688
+Payoff= 0.18 Cascade percentage= 2.8754073702682375
+Payoff= 0.17 Cascade percentage= 2.988217598395588
+Payoff= 0.16 Cascade percentage= 33.73276510403609
+Payoff= 0.15 Cascade percentage= 49.69165204311858
+Payoff= 0.14 Cascade percentage= 88.51591877663576
+Payoff= 0.13 Cascade percentage= 88.6487841564302
+Payoff= 0.12 Cascade percentage= 90.42867886688394
+Payoff= 0.11 Cascade percentage= 95.96139383304087
+Payoff= 0.1 Cascade percentage= 96.28227625971422
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 50
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.010027575833542243
+Payoff= 0.9 Cascade percentage= -0.010027575833542243
+Payoff= 0.85 Cascade percentage= -0.010027575833542243
+Payoff= 0.8 Cascade percentage= -0.010027575833542243
+Payoff= 0.75 Cascade percentage= -0.010027575833542243
+Payoff= 0.7 Cascade percentage= -0.010027575833542243
+Payoff= 0.65 Cascade percentage= -0.007520681875156682
+Payoff= 0.6 Cascade percentage= -0.007520681875156682
+Payoff= 0.55 Cascade percentage= -0.007520681875156682
+Payoff= 0.5 Cascade percentage= 0.062672348959639
+Payoff= 0.45 Cascade percentage= 0.062672348959639
+Payoff= 0.4 Cascade percentage= 0.06517924291802457
+Payoff= 0.35 Cascade percentage= 0.06517924291802457
+Payoff= 0.3 Cascade percentage= 0.1704687891702181
+Payoff= 0.25 Cascade percentage= 0.899974931060416
+Payoff= 0.21 Cascade percentage= 0.9100025068939583
+Payoff= 0.2 Cascade percentage= 1.8851842567059414
+Payoff= 0.19 Cascade percentage= 1.8977187264978688
+Payoff= 0.18 Cascade percentage= 2.8754073702682375
+Payoff= 0.17 Cascade percentage= 2.988217598395588
+Payoff= 0.16 Cascade percentage= 33.73276510403609
+Payoff= 0.15 Cascade percentage= 49.69165204311858
+Payoff= 0.14 Cascade percentage= 88.51591877663576
+Payoff= 0.13 Cascade percentage= 88.6487841564302
+Payoff= 0.12 Cascade percentage= 90.42867886688394
+Payoff= 0.11 Cascade percentage= 95.96139383304087
+Payoff= 0.1 Cascade percentage= 96.28227625971422
+Payoff= 0.09 Cascade percentage= 98.13988468287792
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 100
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.00507743082000508
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 100
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.00507743082000508
+Payoff= 0.9 Cascade percentage= -0.00507743082000508
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 100
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.00507743082000508
+Payoff= 0.9 Cascade percentage= -0.00507743082000508
+Payoff= 0.85 Cascade percentage= -0.00507743082000508
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 100
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.00507743082000508
+Payoff= 0.9 Cascade percentage= -0.00507743082000508
+Payoff= 0.85 Cascade percentage= -0.00507743082000508
+Payoff= 0.8 Cascade percentage= -0.00507743082000508
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 100
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.00507743082000508
+Payoff= 0.9 Cascade percentage= -0.00507743082000508
+Payoff= 0.85 Cascade percentage= -0.00507743082000508
+Payoff= 0.8 Cascade percentage= -0.00507743082000508
+Payoff= 0.75 Cascade percentage= -0.00507743082000508
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 100
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.00507743082000508
+Payoff= 0.9 Cascade percentage= -0.00507743082000508
+Payoff= 0.85 Cascade percentage= -0.00507743082000508
+Payoff= 0.8 Cascade percentage= -0.00507743082000508
+Payoff= 0.75 Cascade percentage= -0.00507743082000508
+Payoff= 0.7 Cascade percentage= -0.00507743082000508
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 100
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.00507743082000508
+Payoff= 0.9 Cascade percentage= -0.00507743082000508
+Payoff= 0.85 Cascade percentage= -0.00507743082000508
+Payoff= 0.8 Cascade percentage= -0.00507743082000508
+Payoff= 0.75 Cascade percentage= -0.00507743082000508
+Payoff= 0.7 Cascade percentage= -0.00507743082000508
+Payoff= 0.65 Cascade percentage= -0.00253871541000254
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 100
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.00507743082000508
+Payoff= 0.9 Cascade percentage= -0.00507743082000508
+Payoff= 0.85 Cascade percentage= -0.00507743082000508
+Payoff= 0.8 Cascade percentage= -0.00507743082000508
+Payoff= 0.75 Cascade percentage= -0.00507743082000508
+Payoff= 0.7 Cascade percentage= -0.00507743082000508
+Payoff= 0.65 Cascade percentage= -0.00253871541000254
+Payoff= 0.6 Cascade percentage= -0.00253871541000254
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 100
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.00507743082000508
+Payoff= 0.9 Cascade percentage= -0.00507743082000508
+Payoff= 0.85 Cascade percentage= -0.00507743082000508
+Payoff= 0.8 Cascade percentage= -0.00507743082000508
+Payoff= 0.75 Cascade percentage= -0.00507743082000508
+Payoff= 0.7 Cascade percentage= -0.00507743082000508
+Payoff= 0.65 Cascade percentage= -0.00253871541000254
+Payoff= 0.6 Cascade percentage= -0.00253871541000254
+Payoff= 0.55 Cascade percentage= -0.00253871541000254
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 100
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.00507743082000508
+Payoff= 0.9 Cascade percentage= -0.00507743082000508
+Payoff= 0.85 Cascade percentage= -0.00507743082000508
+Payoff= 0.8 Cascade percentage= -0.00507743082000508
+Payoff= 0.75 Cascade percentage= -0.00507743082000508
+Payoff= 0.7 Cascade percentage= -0.00507743082000508
+Payoff= 0.65 Cascade percentage= -0.00253871541000254
+Payoff= 0.6 Cascade percentage= -0.00253871541000254
+Payoff= 0.55 Cascade percentage= -0.00253871541000254
+Payoff= 0.5 Cascade percentage= 0.13455191673013453
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 100
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.00507743082000508
+Payoff= 0.9 Cascade percentage= -0.00507743082000508
+Payoff= 0.85 Cascade percentage= -0.00507743082000508
+Payoff= 0.8 Cascade percentage= -0.00507743082000508
+Payoff= 0.75 Cascade percentage= -0.00507743082000508
+Payoff= 0.7 Cascade percentage= -0.00507743082000508
+Payoff= 0.65 Cascade percentage= -0.00253871541000254
+Payoff= 0.6 Cascade percentage= -0.00253871541000254
+Payoff= 0.55 Cascade percentage= -0.00253871541000254
+Payoff= 0.5 Cascade percentage= 0.13455191673013453
+Payoff= 0.45 Cascade percentage= 0.13455191673013453
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 100
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.00507743082000508
+Payoff= 0.9 Cascade percentage= -0.00507743082000508
+Payoff= 0.85 Cascade percentage= -0.00507743082000508
+Payoff= 0.8 Cascade percentage= -0.00507743082000508
+Payoff= 0.75 Cascade percentage= -0.00507743082000508
+Payoff= 0.7 Cascade percentage= -0.00507743082000508
+Payoff= 0.65 Cascade percentage= -0.00253871541000254
+Payoff= 0.6 Cascade percentage= -0.00253871541000254
+Payoff= 0.55 Cascade percentage= -0.00253871541000254
+Payoff= 0.5 Cascade percentage= 0.13455191673013453
+Payoff= 0.45 Cascade percentage= 0.13455191673013453
+Payoff= 0.4 Cascade percentage= 0.15740035542015737
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 100
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.00507743082000508
+Payoff= 0.9 Cascade percentage= -0.00507743082000508
+Payoff= 0.85 Cascade percentage= -0.00507743082000508
+Payoff= 0.8 Cascade percentage= -0.00507743082000508
+Payoff= 0.75 Cascade percentage= -0.00507743082000508
+Payoff= 0.7 Cascade percentage= -0.00507743082000508
+Payoff= 0.65 Cascade percentage= -0.00253871541000254
+Payoff= 0.6 Cascade percentage= -0.00253871541000254
+Payoff= 0.55 Cascade percentage= -0.00253871541000254
+Payoff= 0.5 Cascade percentage= 0.13455191673013453
+Payoff= 0.45 Cascade percentage= 0.13455191673013453
+Payoff= 0.4 Cascade percentage= 0.15740035542015737
+Payoff= 0.35 Cascade percentage= 0.15993907083015993
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 100
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.00507743082000508
+Payoff= 0.9 Cascade percentage= -0.00507743082000508
+Payoff= 0.85 Cascade percentage= -0.00507743082000508
+Payoff= 0.8 Cascade percentage= -0.00507743082000508
+Payoff= 0.75 Cascade percentage= -0.00507743082000508
+Payoff= 0.7 Cascade percentage= -0.00507743082000508
+Payoff= 0.65 Cascade percentage= -0.00253871541000254
+Payoff= 0.6 Cascade percentage= -0.00253871541000254
+Payoff= 0.55 Cascade percentage= -0.00253871541000254
+Payoff= 0.5 Cascade percentage= 0.13455191673013453
+Payoff= 0.45 Cascade percentage= 0.13455191673013453
+Payoff= 0.4 Cascade percentage= 0.15740035542015737
+Payoff= 0.35 Cascade percentage= 0.15993907083015993
+Payoff= 0.3 Cascade percentage= 0.3427265803503427
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 100
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.00507743082000508
+Payoff= 0.9 Cascade percentage= -0.00507743082000508
+Payoff= 0.85 Cascade percentage= -0.00507743082000508
+Payoff= 0.8 Cascade percentage= -0.00507743082000508
+Payoff= 0.75 Cascade percentage= -0.00507743082000508
+Payoff= 0.7 Cascade percentage= -0.00507743082000508
+Payoff= 0.65 Cascade percentage= -0.00253871541000254
+Payoff= 0.6 Cascade percentage= -0.00253871541000254
+Payoff= 0.55 Cascade percentage= -0.00253871541000254
+Payoff= 0.5 Cascade percentage= 0.13455191673013453
+Payoff= 0.45 Cascade percentage= 0.13455191673013453
+Payoff= 0.4 Cascade percentage= 0.15740035542015737
+Payoff= 0.35 Cascade percentage= 0.15993907083015993
+Payoff= 0.3 Cascade percentage= 0.3427265803503427
+Payoff= 0.25 Cascade percentage= 1.5816197004315815
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 100
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.00507743082000508
+Payoff= 0.9 Cascade percentage= -0.00507743082000508
+Payoff= 0.85 Cascade percentage= -0.00507743082000508
+Payoff= 0.8 Cascade percentage= -0.00507743082000508
+Payoff= 0.75 Cascade percentage= -0.00507743082000508
+Payoff= 0.7 Cascade percentage= -0.00507743082000508
+Payoff= 0.65 Cascade percentage= -0.00253871541000254
+Payoff= 0.6 Cascade percentage= -0.00253871541000254
+Payoff= 0.55 Cascade percentage= -0.00253871541000254
+Payoff= 0.5 Cascade percentage= 0.13455191673013453
+Payoff= 0.45 Cascade percentage= 0.13455191673013453
+Payoff= 0.4 Cascade percentage= 0.15740035542015737
+Payoff= 0.35 Cascade percentage= 0.15993907083015993
+Payoff= 0.3 Cascade percentage= 0.3427265803503427
+Payoff= 0.25 Cascade percentage= 1.5816197004315815
+Payoff= 0.21 Cascade percentage= 2.201066260472201
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 100
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.00507743082000508
+Payoff= 0.9 Cascade percentage= -0.00507743082000508
+Payoff= 0.85 Cascade percentage= -0.00507743082000508
+Payoff= 0.8 Cascade percentage= -0.00507743082000508
+Payoff= 0.75 Cascade percentage= -0.00507743082000508
+Payoff= 0.7 Cascade percentage= -0.00507743082000508
+Payoff= 0.65 Cascade percentage= -0.00253871541000254
+Payoff= 0.6 Cascade percentage= -0.00253871541000254
+Payoff= 0.55 Cascade percentage= -0.00253871541000254
+Payoff= 0.5 Cascade percentage= 0.13455191673013453
+Payoff= 0.45 Cascade percentage= 0.13455191673013453
+Payoff= 0.4 Cascade percentage= 0.15740035542015737
+Payoff= 0.35 Cascade percentage= 0.15993907083015993
+Payoff= 0.3 Cascade percentage= 0.3427265803503427
+Payoff= 0.25 Cascade percentage= 1.5816197004315815
+Payoff= 0.21 Cascade percentage= 2.201066260472201
+Payoff= 0.2 Cascade percentage= 29.65727341964966
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 100
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.00507743082000508
+Payoff= 0.9 Cascade percentage= -0.00507743082000508
+Payoff= 0.85 Cascade percentage= -0.00507743082000508
+Payoff= 0.8 Cascade percentage= -0.00507743082000508
+Payoff= 0.75 Cascade percentage= -0.00507743082000508
+Payoff= 0.7 Cascade percentage= -0.00507743082000508
+Payoff= 0.65 Cascade percentage= -0.00253871541000254
+Payoff= 0.6 Cascade percentage= -0.00253871541000254
+Payoff= 0.55 Cascade percentage= -0.00253871541000254
+Payoff= 0.5 Cascade percentage= 0.13455191673013453
+Payoff= 0.45 Cascade percentage= 0.13455191673013453
+Payoff= 0.4 Cascade percentage= 0.15740035542015737
+Payoff= 0.35 Cascade percentage= 0.15993907083015993
+Payoff= 0.3 Cascade percentage= 0.3427265803503427
+Payoff= 0.25 Cascade percentage= 1.5816197004315815
+Payoff= 0.21 Cascade percentage= 2.201066260472201
+Payoff= 0.2 Cascade percentage= 29.65727341964966
+Payoff= 0.19 Cascade percentage= 31.551155115511545
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 100
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.00507743082000508
+Payoff= 0.9 Cascade percentage= -0.00507743082000508
+Payoff= 0.85 Cascade percentage= -0.00507743082000508
+Payoff= 0.8 Cascade percentage= -0.00507743082000508
+Payoff= 0.75 Cascade percentage= -0.00507743082000508
+Payoff= 0.7 Cascade percentage= -0.00507743082000508
+Payoff= 0.65 Cascade percentage= -0.00253871541000254
+Payoff= 0.6 Cascade percentage= -0.00253871541000254
+Payoff= 0.55 Cascade percentage= -0.00253871541000254
+Payoff= 0.5 Cascade percentage= 0.13455191673013453
+Payoff= 0.45 Cascade percentage= 0.13455191673013453
+Payoff= 0.4 Cascade percentage= 0.15740035542015737
+Payoff= 0.35 Cascade percentage= 0.15993907083015993
+Payoff= 0.3 Cascade percentage= 0.3427265803503427
+Payoff= 0.25 Cascade percentage= 1.5816197004315815
+Payoff= 0.21 Cascade percentage= 2.201066260472201
+Payoff= 0.2 Cascade percentage= 29.65727341964966
+Payoff= 0.19 Cascade percentage= 31.551155115511545
+Payoff= 0.18 Cascade percentage= 35.51916730134552
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 100
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.00507743082000508
+Payoff= 0.9 Cascade percentage= -0.00507743082000508
+Payoff= 0.85 Cascade percentage= -0.00507743082000508
+Payoff= 0.8 Cascade percentage= -0.00507743082000508
+Payoff= 0.75 Cascade percentage= -0.00507743082000508
+Payoff= 0.7 Cascade percentage= -0.00507743082000508
+Payoff= 0.65 Cascade percentage= -0.00253871541000254
+Payoff= 0.6 Cascade percentage= -0.00253871541000254
+Payoff= 0.55 Cascade percentage= -0.00253871541000254
+Payoff= 0.5 Cascade percentage= 0.13455191673013453
+Payoff= 0.45 Cascade percentage= 0.13455191673013453
+Payoff= 0.4 Cascade percentage= 0.15740035542015737
+Payoff= 0.35 Cascade percentage= 0.15993907083015993
+Payoff= 0.3 Cascade percentage= 0.3427265803503427
+Payoff= 0.25 Cascade percentage= 1.5816197004315815
+Payoff= 0.21 Cascade percentage= 2.201066260472201
+Payoff= 0.2 Cascade percentage= 29.65727341964966
+Payoff= 0.19 Cascade percentage= 31.551155115511545
+Payoff= 0.18 Cascade percentage= 35.51916730134552
+Payoff= 0.17 Cascade percentage= 39.86037065244986
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 100
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.00507743082000508
+Payoff= 0.9 Cascade percentage= -0.00507743082000508
+Payoff= 0.85 Cascade percentage= -0.00507743082000508
+Payoff= 0.8 Cascade percentage= -0.00507743082000508
+Payoff= 0.75 Cascade percentage= -0.00507743082000508
+Payoff= 0.7 Cascade percentage= -0.00507743082000508
+Payoff= 0.65 Cascade percentage= -0.00253871541000254
+Payoff= 0.6 Cascade percentage= -0.00253871541000254
+Payoff= 0.55 Cascade percentage= -0.00253871541000254
+Payoff= 0.5 Cascade percentage= 0.13455191673013453
+Payoff= 0.45 Cascade percentage= 0.13455191673013453
+Payoff= 0.4 Cascade percentage= 0.15740035542015737
+Payoff= 0.35 Cascade percentage= 0.15993907083015993
+Payoff= 0.3 Cascade percentage= 0.3427265803503427
+Payoff= 0.25 Cascade percentage= 1.5816197004315815
+Payoff= 0.21 Cascade percentage= 2.201066260472201
+Payoff= 0.2 Cascade percentage= 29.65727341964966
+Payoff= 0.19 Cascade percentage= 31.551155115511545
+Payoff= 0.18 Cascade percentage= 35.51916730134552
+Payoff= 0.17 Cascade percentage= 39.86037065244986
+Payoff= 0.16 Cascade percentage= 82.37369890835238
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 100
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.00507743082000508
+Payoff= 0.9 Cascade percentage= -0.00507743082000508
+Payoff= 0.85 Cascade percentage= -0.00507743082000508
+Payoff= 0.8 Cascade percentage= -0.00507743082000508
+Payoff= 0.75 Cascade percentage= -0.00507743082000508
+Payoff= 0.7 Cascade percentage= -0.00507743082000508
+Payoff= 0.65 Cascade percentage= -0.00253871541000254
+Payoff= 0.6 Cascade percentage= -0.00253871541000254
+Payoff= 0.55 Cascade percentage= -0.00253871541000254
+Payoff= 0.5 Cascade percentage= 0.13455191673013453
+Payoff= 0.45 Cascade percentage= 0.13455191673013453
+Payoff= 0.4 Cascade percentage= 0.15740035542015737
+Payoff= 0.35 Cascade percentage= 0.15993907083015993
+Payoff= 0.3 Cascade percentage= 0.3427265803503427
+Payoff= 0.25 Cascade percentage= 1.5816197004315815
+Payoff= 0.21 Cascade percentage= 2.201066260472201
+Payoff= 0.2 Cascade percentage= 29.65727341964966
+Payoff= 0.19 Cascade percentage= 31.551155115511545
+Payoff= 0.18 Cascade percentage= 35.51916730134552
+Payoff= 0.17 Cascade percentage= 39.86037065244986
+Payoff= 0.16 Cascade percentage= 82.37369890835238
+Payoff= 0.15 Cascade percentage= 86.55242447321656
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 100
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.00507743082000508
+Payoff= 0.9 Cascade percentage= -0.00507743082000508
+Payoff= 0.85 Cascade percentage= -0.00507743082000508
+Payoff= 0.8 Cascade percentage= -0.00507743082000508
+Payoff= 0.75 Cascade percentage= -0.00507743082000508
+Payoff= 0.7 Cascade percentage= -0.00507743082000508
+Payoff= 0.65 Cascade percentage= -0.00253871541000254
+Payoff= 0.6 Cascade percentage= -0.00253871541000254
+Payoff= 0.55 Cascade percentage= -0.00253871541000254
+Payoff= 0.5 Cascade percentage= 0.13455191673013453
+Payoff= 0.45 Cascade percentage= 0.13455191673013453
+Payoff= 0.4 Cascade percentage= 0.15740035542015737
+Payoff= 0.35 Cascade percentage= 0.15993907083015993
+Payoff= 0.3 Cascade percentage= 0.3427265803503427
+Payoff= 0.25 Cascade percentage= 1.5816197004315815
+Payoff= 0.21 Cascade percentage= 2.201066260472201
+Payoff= 0.2 Cascade percentage= 29.65727341964966
+Payoff= 0.19 Cascade percentage= 31.551155115511545
+Payoff= 0.18 Cascade percentage= 35.51916730134552
+Payoff= 0.17 Cascade percentage= 39.86037065244986
+Payoff= 0.16 Cascade percentage= 82.37369890835238
+Payoff= 0.15 Cascade percentage= 86.55242447321656
+Payoff= 0.14 Cascade percentage= 92.25437928408225
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 100
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.00507743082000508
+Payoff= 0.9 Cascade percentage= -0.00507743082000508
+Payoff= 0.85 Cascade percentage= -0.00507743082000508
+Payoff= 0.8 Cascade percentage= -0.00507743082000508
+Payoff= 0.75 Cascade percentage= -0.00507743082000508
+Payoff= 0.7 Cascade percentage= -0.00507743082000508
+Payoff= 0.65 Cascade percentage= -0.00253871541000254
+Payoff= 0.6 Cascade percentage= -0.00253871541000254
+Payoff= 0.55 Cascade percentage= -0.00253871541000254
+Payoff= 0.5 Cascade percentage= 0.13455191673013453
+Payoff= 0.45 Cascade percentage= 0.13455191673013453
+Payoff= 0.4 Cascade percentage= 0.15740035542015737
+Payoff= 0.35 Cascade percentage= 0.15993907083015993
+Payoff= 0.3 Cascade percentage= 0.3427265803503427
+Payoff= 0.25 Cascade percentage= 1.5816197004315815
+Payoff= 0.21 Cascade percentage= 2.201066260472201
+Payoff= 0.2 Cascade percentage= 29.65727341964966
+Payoff= 0.19 Cascade percentage= 31.551155115511545
+Payoff= 0.18 Cascade percentage= 35.51916730134552
+Payoff= 0.17 Cascade percentage= 39.86037065244986
+Payoff= 0.16 Cascade percentage= 82.37369890835238
+Payoff= 0.15 Cascade percentage= 86.55242447321656
+Payoff= 0.14 Cascade percentage= 92.25437928408225
+Payoff= 0.13 Cascade percentage= 94.16603198781416
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 100
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.00507743082000508
+Payoff= 0.9 Cascade percentage= -0.00507743082000508
+Payoff= 0.85 Cascade percentage= -0.00507743082000508
+Payoff= 0.8 Cascade percentage= -0.00507743082000508
+Payoff= 0.75 Cascade percentage= -0.00507743082000508
+Payoff= 0.7 Cascade percentage= -0.00507743082000508
+Payoff= 0.65 Cascade percentage= -0.00253871541000254
+Payoff= 0.6 Cascade percentage= -0.00253871541000254
+Payoff= 0.55 Cascade percentage= -0.00253871541000254
+Payoff= 0.5 Cascade percentage= 0.13455191673013453
+Payoff= 0.45 Cascade percentage= 0.13455191673013453
+Payoff= 0.4 Cascade percentage= 0.15740035542015737
+Payoff= 0.35 Cascade percentage= 0.15993907083015993
+Payoff= 0.3 Cascade percentage= 0.3427265803503427
+Payoff= 0.25 Cascade percentage= 1.5816197004315815
+Payoff= 0.21 Cascade percentage= 2.201066260472201
+Payoff= 0.2 Cascade percentage= 29.65727341964966
+Payoff= 0.19 Cascade percentage= 31.551155115511545
+Payoff= 0.18 Cascade percentage= 35.51916730134552
+Payoff= 0.17 Cascade percentage= 39.86037065244986
+Payoff= 0.16 Cascade percentage= 82.37369890835238
+Payoff= 0.15 Cascade percentage= 86.55242447321656
+Payoff= 0.14 Cascade percentage= 92.25437928408225
+Payoff= 0.13 Cascade percentage= 94.16603198781416
+Payoff= 0.12 Cascade percentage= 94.17364813404417
+Randomly choose nodes from all the nodes as initial adopters
+Initial adopters No.= 100
+For each payoff value,there are 10 sets of initial adopters
+Payoff= 0.95 Cascade percentage= -0.00507743082000508
+Payoff= 0.9 Cascade percentage= -0.00507743082000508
+Payoff= 0.85 Cascade percentage= -0.00507743082000508
+Payoff= 0.8 Cascade percentage= -0.00507743082000508
+Payoff= 0.75 Cascade percentage= -0.00507743082000508
+Payoff= 0.7 Cascade percentage= -0.00507743082000508
+Payoff= 0.65 Cascade percentage= -0.00253871541000254
+Payoff= 0.6 Cascade percentage= -0.00253871541000254
+Payoff= 0.55 Cascade percentage= -0.00253871541000254
+Payoff= 0.5 Cascade percentage= 0.13455191673013453
+Payoff= 0.45 Cascade percentage= 0.13455191673013453
+Payoff= 0.4 Cascade percentage= 0.15740035542015737
+Payoff= 0.35 Cascade percentage= 0.15993907083015993
+Payoff= 0.3 Cascade percentage= 0.3427265803503427
+Payoff= 0.25 Cascade percentage= 1.5816197004315815
+Payoff= 0.21 Cascade percentage= 2.201066260472201
+Payoff= 0.2 Cascade percentage= 29.65727341964966
+Payoff= 0.19 Cascade percentage= 31.551155115511545
+Payoff= 0.18 Cascade percentage= 35.51916730134552
+Payoff= 0.17 Cascade percentage= 39.86037065244986
+Payoff= 0.16 Cascade percentage= 82.37369890835238
+Payoff= 0.15 Cascade percentage= 86.55242447321656
+Payoff= 0.14 Cascade percentage= 92.25437928408225
+Payoff= 0.13 Cascade percentage= 94.16603198781416
+Payoff= 0.12 Cascade percentage= 94.17364813404417
+Payoff= 0.11 Cascade percentage= 99.74612845899973
